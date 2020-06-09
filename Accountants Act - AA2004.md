@@ -308,29 +308,17 @@ PRELIMINARY
 
  a share to which, in no circumstances, is there attached a right to vote; or(b)
 
- a share to which there is attached a right to vote only in one or more of the following circumstances:(i)
+ a share to which there is attached a right to vote only in one or more of the following circumstances:(i) during a period in which a dividend (or part of a dividend) in respect of the share is in arrears;
 
-during a period in which a dividend (or part of a dividend) in respect of the share is in arrears;
+(ii) upon a proposal to reduce the share capital of the company or accounting corporation;
 
-(ii)
+(iii) upon a proposal that affects rights attached to the share;
 
-upon a proposal to reduce the share capital of the company or accounting corporation;
+(iv) upon a proposal to wind up the company or accounting corporation;
 
-(iii)
+(v) upon a proposal for the disposal of the whole of the property, business and undertakings of the company or accounting corporation;
 
-upon a proposal that affects rights attached to the share;
-
-(iv)
-
-upon a proposal to wind up the company or accounting corporation;
-
-(v)
-
-upon a proposal for the disposal of the whole of the property, business and undertakings of the company or accounting corporation;
-
-(vi)
-
-during the winding up of the company or accounting corporation.
+(vi) during the winding up of the company or accounting corporation.
 
 [Act 35 of 2014 wef 03/01/2016]
 
@@ -376,39 +364,25 @@ and shall carry out such functions subject to the general or special directions 
 
 5\.—(1)  The Oversight Committee shall assist the Authority in the discharge of the Authority’s functions under section 3 and, in so doing, shall —(a) keep and maintain —
 
-(i)
+(i) a Register of Public Accountants;
 
-a Register of Public Accountants;
+(ii) a Register of Public Accounting Corporations;
 
-(ii)
+(iii) a Register of Public Accounting Firms; 
 
-a Register of Public Accounting Corporations;
-
-(iii)
-
-a Register of Public Accounting Firms; 
-
-(iv)
-
-a Register of Public Accounting Limited Liability Partnerships; and
+(iv) a Register of Public Accounting Limited Liability Partnerships; and
 
 [11/2006 wef 06/10/2006]
 
-(v)
-
-such other registers as may be necessary for the purposes of this Act;
+(v) such other registers as may be necessary for the purposes of this Act;
 
 [11/2006 wef 06/10/2006]
 
 (b) consider and, as appropriate, grant (whether unconditionally or subject to such conditions as it thinks fit) or reject —
 
-(i)
+(i) all applications for registration made under Part III; and
 
-all applications for registration made under Part III; and
-
-(ii)
-
-all applications for approval under Part IV;
+(ii) all applications for approval under Part IV;
 
 (c) assist the Authority in determining, prescribing and reviewing the requirements to be satisfied by persons seeking to be registered as public accountants under Part III;
 
@@ -420,25 +394,17 @@ all applications for approval under Part IV;
 
 (g) assist the Authority in determining, prescribing and reviewing —
 
-(i)
+(i) the codes of professional conduct and ethics for public accountants; and
 
-the codes of professional conduct and ethics for public accountants; and
-
-(ii)
-
-the standards, methods and procedures to be applied by public accountants when providing public accountancy services;
+(ii) the standards, methods and procedures to be applied by public accountants when providing public accountancy services;
 
 (h) inquire into —
 
-(i)
-
-any complaint against any public accountant, accounting corporation, accounting firm or accounting LLP; or
+(i) any complaint against any public accountant, accounting corporation, accounting firm or accounting LLP; or
 
 [11/2006 wef 06/10/2006]
 
-(ii)
-
-any information relating to any professional misconduct on the part of any public accountant, accounting corporation, accounting firm or accounting LLP,
+(ii) any information relating to any professional misconduct on the part of any public accountant, accounting corporation, accounting firm or accounting LLP,
 
 [11/2006 wef 06/10/2006]
 
@@ -504,25 +470,17 @@ and, if necessary, institute disciplinary proceedings in accordance with Part V
 
 (a) record —
 
-(i)
+(i) in the Register of Public Accountants the name and relevant particulars of every public accountant who is registered under this Act or whose registration has been suspended or cancelled;
 
-in the Register of Public Accountants the name and relevant particulars of every public accountant who is registered under this Act or whose registration has been suspended or cancelled;
-
-(ii)
-
-in the Register of Public Accounting Corporations the name and relevant particulars of every accounting corporation that is approved under this Act or that has had its approval revoked; 
+(ii) in the Register of Public Accounting Corporations the name and relevant particulars of every accounting corporation that is approved under this Act or that has had its approval revoked; 
 
 [11/2006 wef 06/10/2006]
 
-(iii)
-
-in the Register of Public Accounting Firms the name and relevant particulars of every accounting firm that is approved under this Act or that has had its approval revoked; and
+(iii) in the Register of Public Accounting Firms the name and relevant particulars of every accounting firm that is approved under this Act or that has had its approval revoked; and
 
 [11/2006 wef 06/10/2006]
 
-(iv)
-
-in the Register of Public Accounting Limited Liability Partnerships the name and relevant particulars of every accounting LLP that is approved under this Act or that has had its approval revoked;
+(iv) in the Register of Public Accounting Limited Liability Partnerships the name and relevant particulars of every accounting LLP that is approved under this Act or that has had its approval revoked;
 
 [11/2006 wef 06/10/2006]
 
@@ -562,17 +520,11 @@ REGISTRATION OF PUBLIC ACCOUNTANTS
 
 (b) satisfies the prescribed requirements relating to —
 
-(i)
+(i) qualifications;
 
-qualifications;
+(ii) practical experience; and
 
-(ii)
-
-practical experience; and
-
-(iii)
-
-membership in any professional accountancy body or organisation,
+(iii) membership in any professional accountancy body or organisation,
 
 shall be entitled, on payment of the prescribed fee, to be registered as a public accountant under this Part.
 
@@ -606,17 +558,11 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 (a) in the opinion of the Oversight Committee —
 
-(i)
+(i) is not of good reputation or character;
 
-is not of good reputation or character;
+(ii) is engaged in any business or occupation that is inconsistent with the integrity of a public accountant; or
 
-(ii)
-
-is engaged in any business or occupation that is inconsistent with the integrity of a public accountant; or
-
-(iii)
-
-is otherwise unfit to practise as a public accountant; or
+(iii) is otherwise unfit to practise as a public accountant; or
 
 (b) has had his registration, licence or approval to practise as a public accountant in any other country withdrawn, suspended, cancelled or revoked.
 
@@ -846,9 +792,7 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 (c) the articles of association of the company or proposed company provide that —
 
-(i)
-
-not less than two-thirds, or such other proportion as may be prescribed, of the directors (including the chairman) shall be public accountants, or —
+(i) not less than two-thirds, or such other proportion as may be prescribed, of the directors (including the chairman) shall be public accountants, or —
 
 (A)
 
@@ -858,13 +802,9 @@ if the company or proposed company has only one director, that that director sha
 
 if the company or proposed company has only 2 directors, that one of those directors shall be a public accountant;
 
-(ii)
+(ii) not less than two-thirds, or such other proportion as may be prescribed, of the voting shares of the company or proposed company shall be owned by corporate practitioners; and
 
-not less than two-thirds, or such other proportion as may be prescribed, of the voting shares of the company or proposed company shall be owned by corporate practitioners; and
-
-(iii)
-
-only natural persons may own any shares of the company or proposed company;
+(iii) only natural persons may own any shares of the company or proposed company;
 
 (d) the business of the company or proposed company, so far as it relates to the provision of public accountancy services in Singapore, will be under the control and management of one or more directors of the company who are public accountants ordinarily resident in Singapore; and
 
@@ -1240,17 +1180,11 @@ PRACTICE MONITORING PROGRAMME
 
 (a) any public accountant under review shall, if required by the reviewer —
 
-(i)
+(i) produce to the reviewer or afford the reviewer access to, any record or document specified by the reviewer or any record or other document which is of a class or description so specified and which is in his possession or under his control being in either case a record or other document which the reviewer reasonably believes is or may be relevant to the practice review, within such time and at such place as the reviewer may reasonably require;
 
-produce to the reviewer or afford the reviewer access to, any record or document specified by the reviewer or any record or other document which is of a class or description so specified and which is in his possession or under his control being in either case a record or other document which the reviewer reasonably believes is or may be relevant to the practice review, within such time and at such place as the reviewer may reasonably require;
+(ii) give to the reviewer such explanation or further particulars in respect of anything produced in compliance with a requirement under sub-paragraph (i) as the reviewer shall specify; and
 
-(ii)
-
-give to the reviewer such explanation or further particulars in respect of anything produced in compliance with a requirement under sub-paragraph (i) as the reviewer shall specify; and
-
-(iii)
-
-give to the reviewer all assistance in connection with the practice review which he is reasonably able to give;
+(iii) give to the reviewer all assistance in connection with the practice review which he is reasonably able to give;
 
 (b) where any information or matter relevant to a practice review is recorded otherwise than in a legible form, the power of a reviewer to require the production of any record or other document conferred under paragraph (a) shall include the power to require the production of a reproduction of any such information or matter or of the relevant part of it in a legible form;
 
@@ -1268,35 +1202,21 @@ give to the reviewer all assistance in connection with the practice review which
 
 38\.—(1)  Upon receiving the report of the Practice Monitoring Sub-committee under section 37(2) and considering the recommendations therein, the Oversight Committee may —(a) take any one or more of the following actions:
 
-(i)
+(i) by order impose such conditions as are necessary to restrict the provision of public accountancy services by the public accountant in such manner as the Oversight Committee thinks fit for a period not exceeding 2 years;
 
-by order impose such conditions as are necessary to restrict the provision of public accountancy services by the public accountant in such manner as the Oversight Committee thinks fit for a period not exceeding 2 years;
+(ii) require the public accountant to undergo and satisfactorily complete such remedial programme as may be specified by the Oversight Committee;
 
-(ii)
+(iii) require the public accountant to take other steps as may be specified by the Oversight Committee to improve the practice of the public accountant or to give such undertaking as the Oversight Committee thinks fit;
 
-require the public accountant to undergo and satisfactorily complete such remedial programme as may be specified by the Oversight Committee;
-
-(iii)
-
-require the public accountant to take other steps as may be specified by the Oversight Committee to improve the practice of the public accountant or to give such undertaking as the Oversight Committee thinks fit;
-
-(iv)
-
-make such other order as the Oversight Committee thinks necessary or expedient; or
+(iv) make such other order as the Oversight Committee thinks necessary or expedient; or
 
 (b) if it is of the opinion that it is contrary to the public interest or the interest of the profession of public accountancy for the public accountant to continue in practice, or if the public accountant has failed to comply with any order or requirement of the Oversight Committee under paragraph (a) —
 
-(i)
+(i) refuse to renew the registration of the public accountant concerned;
 
-refuse to renew the registration of the public accountant concerned;
+(ii) suspend the registration of the public accountant concerned for a period not exceeding 2 years; or
 
-(ii)
-
-suspend the registration of the public accountant concerned for a period not exceeding 2 years; or
-
-(iii)
-
-cancel the registration of the public accountant concerned.
+(iii) cancel the registration of the public accountant concerned.
 
 (2)  The Oversight Committee shall not take any action under subsection (1)(b) unless it has given the public accountant concerned an opportunity to show cause against the action proposed to be taken by the Oversight Committee.
 
@@ -1376,13 +1296,9 @@ shall be made to the Oversight Committee in writing and shall be supported by su
 
 (b) in a case where the complaint or information relates to the conviction (whether in Singapore or elsewhere) of the public accountant, accounting corporation, accounting firm or accounting LLP concerned of an offence that —
 
-(i)
+(i) involves fraud or dishonesty; or
 
-involves fraud or dishonesty; or
-
-(ii)
-
-implies a defect in character which makes the public accountant concerned unfit for his profession,
+(ii) implies a defect in character which makes the public accountant concerned unfit for his profession,
 
 recommend to the Oversight Committee to refer the matter to a Disciplinary Committee for a formal inquiry; and
 
@@ -1476,13 +1392,9 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (b) require any person —
 
-(i)
+(i) to produce any book, document, paper or other record which may be related to or be connected with the subject-matter of the inquiry for inspection by the Complaints Committee or the person appointed under paragraph (a) and for making copies thereof; or
 
-to produce any book, document, paper or other record which may be related to or be connected with the subject-matter of the inquiry for inspection by the Complaints Committee or the person appointed under paragraph (a) and for making copies thereof; or
-
-(ii)
-
-to give all information in relation to any such book, document, paper or other record which may be reasonably required by the Complaints Committee or the person so appointed; and
+(ii) to give all information in relation to any such book, document, paper or other record which may be reasonably required by the Complaints Committee or the person so appointed; and
 
 (c) require any person to attend at a specified time and place and give evidence or produce any such book, document, paper or record.
 
@@ -1508,21 +1420,15 @@ to give all information in relation to any such book, document, paper or other r
 
 (b) if it is of the view that the complaint or information is valid but that no formal inquiry is necessary, recommend to the Oversight Committee to do any of the following:
 
-(i)
-
-order that the public accountant, accounting corporation, accounting firm or accounting LLP concerned be issued with a letter of advice;
+(i) order that the public accountant, accounting corporation, accounting firm or accounting LLP concerned be issued with a letter of advice;
 
 [11/2006 wef 06/10/2006]
 
-(ii)
-
-order that the public accountant, accounting corporation, accounting firm or accounting LLP concerned be warned;
+(ii) order that the public accountant, accounting corporation, accounting firm or accounting LLP concerned be warned;
 
 [11/2006 wef 06/10/2006]
 
-(iii)
-
-make such other order as the Complaints Committee considers appropriate; and
+(iii) make such other order as the Complaints Committee considers appropriate; and
 
 (c) if it is of the view that a formal inquiry is necessary, recommend to the Oversight Committee to constitute a Disciplinary Committee to hold the formal inquiry.
 
@@ -1654,13 +1560,9 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 (f) has rendered public accountancy services as, or purporting to be —
 
-(i)
+(i) a director of a company which was not an accounting corporation; or
 
-a director of a company which was not an accounting corporation; or
-
-(ii)
-
-a partner of a limited liability partnership which was not an accounting LLP,
+(ii) a partner of a limited liability partnership which was not an accounting LLP,
 
 when the services were rendered;
 
@@ -1910,13 +1812,9 @@ the public accountant, accounting corporation, accounting firm or accounting LLP
 
 (a) procures or attempts to procure —
 
-(i)
+(i) approval as an accounting corporation, accounting firm or accounting LLP under this Act; or
 
-approval as an accounting corporation, accounting firm or accounting LLP under this Act; or
-
-(ii)
-
-registration or a certificate of registration as a public accountant under this Act,
+(ii) registration or a certificate of registration as a public accountant under this Act,
 
 by knowingly making or producing or causing to be made any false or fraudulent declaration, certificate, application or representation, whether in writing or otherwise;
 
