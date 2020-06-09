@@ -204,9 +204,7 @@ PRELIMINARY
 
 #### Short title
 
-1.
-
-  This Act may be cited as the Accountants Act.
+1.  This Act may be cited as the Accountants Act.
 
 #### Interpretation
 
@@ -372,9 +370,7 @@ ADMINISTRATION OF ACT
 
 #### Administration of Act
 
-3.
-
-  The Authority shall be responsible —
+3.  The Authority shall be responsible —
 
 (a)
 
@@ -638,9 +634,7 @@ correct any error in any entry in any of the registers.
 
 #### Certificate of Registrar
 
-9.
-
-  Where any question arises as to whether or not —
+9.  Where any question arises as to whether or not —
 
 (a)
 
@@ -1080,9 +1074,7 @@ the public accountant is no longer in a position to discharge the duties of a pu
 
 #### Publication of list of public accountants
 
-16.
-
-  The Registrar may, from time to time, prepare and publish in such form or manner as the Oversight Committee may determine a list of the names and particulars of all public accountants.
+16.  The Registrar may, from time to time, prepare and publish in such form or manner as the Oversight Committee may determine a list of the names and particulars of all public accountants.
 
 ### PART IV
 
@@ -1312,9 +1304,7 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 #### Notification of approval and record in Register
 
-21.
-
-  Where the Oversight Committee has approved a company, a firm or a limited liability partnership as an accounting corporation, an accounting firm or an accounting LLP under this Part, the Registrar shall —
+21.  Where the Oversight Committee has approved a company, a firm or a limited liability partnership as an accounting corporation, an accounting firm or an accounting LLP under this Part, the Registrar shall —
 
 (a)
 
@@ -1368,9 +1358,7 @@ record the name and relevant particulars of the accounting corporation, accounti
 
 #### Relationship between client and accounting corporation or accounting LLP
 
-24.
-
-  An accounting corporation and an accounting LLP shall have the same rights and be subject to the same fiduciary, confidential and ethical requirements with respect to each client of the accounting corporation or accounting LLP, as the case may be, in respect of the provision of public accountancy services that exist at law with respect to a public accountant and his client.
+24.  An accounting corporation and an accounting LLP shall have the same rights and be subject to the same fiduciary, confidential and ethical requirements with respect to each client of the accounting corporation or accounting LLP, as the case may be, in respect of the provision of public accountancy services that exist at law with respect to a public accountant and his client.
 
 [11/2006 wef 06/10/2006]
 
@@ -1662,9 +1650,7 @@ PRACTICE MONITORING PROGRAMME
 
 #### Interpretation of this Part
 
-32.
-
-  In this Part —
+32.  In this Part —
 
 “practice monitoring programme” means a programme designed to ascertain whether a public accountant has complied with the prescribed standards, methods, procedures and other requirements when providing public accountancy services;
 
@@ -1696,9 +1682,7 @@ PRACTICE MONITORING PROGRAMME
 
 #### Appointment of reviewers
 
-35.
-
-  The Oversight Committee may appoint any employee of the Authority or any other suitably qualified person as a reviewer to carry out any practice review under this Part.
+35.  The Oversight Committee may appoint any employee of the Authority or any other suitably qualified person as a reviewer to carry out any practice review under this Part.
 
 #### Practice reviews
 
@@ -1946,9 +1930,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 #### Conviction final and conclusive
 
-43.
-
-  In any proceedings instituted under this Part against a public accountant, an accounting corporation, an accounting firm or an accounting LLP arising from his or its conviction of a criminal offence, the Registrar, the Oversight Committee, a Complaints Committee, a Disciplinary Committee and the High Court on appeal from any order of the Oversight Committee, shall accept the conviction as final and conclusive unless —
+43.  In any proceedings instituted under this Part against a public accountant, an accounting corporation, an accounting firm or an accounting LLP arising from his or its conviction of a criminal offence, the Registrar, the Oversight Committee, a Complaints Committee, a Disciplinary Committee and the High Court on appeal from any order of the Oversight Committee, shall accept the conviction as final and conclusive unless —
 
 (a)
 
@@ -2080,9 +2062,7 @@ require any person to attend at a specified time and place and give evidence or 
 
 #### Findings of Complaints Committee
 
-47.
-
-  Upon due inquiry into the complaint or information referred to it under this Part, a Complaints Committee shall —
+47.  Upon due inquiry into the complaint or information referred to it under this Part, a Complaints Committee shall —
 
 (a)
 
@@ -2670,9 +2650,7 @@ any public officer or any officer of any statutory authority authorised by the M
 
 #### Fraudulent practices in relation to registration
 
-58.
-
-  Any person who —
+58.  Any person who —
 
 (a)
 
@@ -2778,9 +2756,7 @@ has so conducted himself while employed by a public accountant that, had he hims
 
 #### Jurisdiction of District Court
 
-61.
-
-  Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+61.  Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 #### Composition of offences
 
@@ -2794,9 +2770,7 @@ has so conducted himself while employed by a public accountant that, had he hims
 
 #### Protection from personal liability
 
-63.
-
-  No suit or other legal proceedings shall lie personally against any person who is a member of a Complaints Committee or a Disciplinary Committee for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+63.  No suit or other legal proceedings shall lie personally against any person who is a member of a Complaints Committee or a Disciplinary Committee for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
 #### Rules
 
@@ -2876,9 +2850,7 @@ to prescribe anything which may be prescribed or is required to be prescribed un
 
 #### Service of documents on public accountant
 
-64A.
-
-  Any document required to be served under this Act on a public accountant shall be sufficiently served if addressed to the public accountant and left at or sent by post to his residential address or, if the public accountant has provided an alternate address under section 12C, his alternate address.
+64A.  Any document required to be served under this Act on a public accountant shall be sufficiently served if addressed to the public accountant and left at or sent by post to his residential address or, if the public accountant has provided an alternate address under section 12C, his alternate address.
 
 [Act 35 of 2014 wef 03/01/2016]
 
@@ -2946,9 +2918,7 @@ any action, order or decision that could have been taken or made by the Public A
 
 #### Professional misconduct committed before 1st April 2004
 
-68.
-
-  Where —
+68.  Where —
 
 (a)
 
