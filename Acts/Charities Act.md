@@ -1718,9 +1718,11 @@ FUND-RAISING APPEALS
 
 “fund-raising appeal” means —
 
-(a) an appeal, whether made expressly or impliedly, to any member of the public to give money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes; or
+(a) an appeal by any person, whether made expressly or impliedly, for money or other property (whether as consideration or otherwise) that is made in association with a representation that the whole or any part of the money or property, or proceeds or returns from the money or property, will be applied for any charitable, benevolent or philanthropic purpose; or
 
-(b) a receipt from any member of the public of any money or other property (whether for consideration or otherwise) which is given in whole or in part for any charitable, benevolent or philanthropic purposes;
+(b) the receipt by any person of any money or other property (whether as consideration or otherwise) that is given in whole or in part for any charitable, benevolent or philanthropic purpose;
+
+[Act 2 of 2018 wef 09/06/2020]
 
 “fund-raising business” means any business carried on for gain and wholly or primarily engaged in soliciting or otherwise procuring money or other property for charitable, benevolent or philanthropic purposes;
 
@@ -2609,3 +2611,4 @@ This Legislative History is provided for the convenience of users of the Chariti
 ||Date of Second and Third Readings|9 January 2018|
 ||Date of commencement|1 April 2018|
 |||1 March 2019|
+|||9 June 2020|
