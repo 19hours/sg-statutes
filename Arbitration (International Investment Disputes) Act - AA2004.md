@@ -2,38 +2,45 @@
 
 **(CHAPTER 11)**
 
-
-
 **Table of Contents**
 
+[**Long Title**](#Arbitration-(International-Investment-Disputes)-Act)
 
+- [1 Short title](#Short-title)
 
-**Long Title**
+- [2 Interpretation](#Interpretation)
 
-- 1 Short title
+- [3 Binding on Government](#Binding-on-Government)
 
-- 2 Interpretation
+- [4 Registration of Convention awards](#Registration-of-Convention-awards)
 
-- 3 Binding on Government
+- [5 Effect of registration](#Effect-of-registration)
 
-- 4 Registration of Convention awards
+- [6 Power to make rules](#Power-to-make-rules)
 
-- 5 Effect of registration
+- [7 Government contribution to expenses under Convention](#Government-contribution-to-expenses-under-Convention)
 
-- 6 Power to make rules
+- [8 Exclusion of Arbitration Act](#Exclusion-of-Arbitration-Act)
 
-- 7 Government contribution to expenses under Convention
+- [9 Certain provisions of Convention to have force of law](#Certain-provisions-of-Convention-to-have-force-of-law)
 
-- 8 Exclusion of Arbitration Act
+- [10 Power of Minister to amend Schedule](#Power-of-Minister-to-amend-Schedule)
 
-- 9 Certain provisions of Convention to have force of law
+[**THE SCHEDULE Convention on the Settlement of Investment Disputes between States and Nationals of other States**](#THE-SCHEDULE-Convention-on-the-Settlement-of-Investment-Disputes-between-States-and-Nationals-of-other-States)
 
-- 10 Power of Minister to amend Schedule
+[**Legislative History**](#Legislative-History)
 
-**THE SCHEDULE**
+## Arbitration (International Investment Disputes) Act
 
-**Convention on the Settlement of Investment Disputes between States and Nationals of other States**
+(CHAPTER 11)
 
-**Legislative History**
+(Original Enactment: Act 18 of 1968)
 
+REVISED EDITION 2012
+
+(31st March 2012)
+
+An Act to implement the International Convention on the Settlement of Investment Disputes between States and Nationals of other States.
+
+[10th September 1968]
 
