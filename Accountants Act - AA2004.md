@@ -2200,215 +2200,60 @@ Common seal and execution of documents
 
 ## LEGISLATIVE SOURCE KEY
 
-## Accountants Act
+Accountants Act
 
-## (CHAPTER 2)
+(CHAPTER 2)
 
 Notes:—Unless otherwise stated, the abbreviation used in the cross-references are references to the Singapore Accountants Act (Cap. 2, 2001 Revised Edition). The references are provided for convenience and are not part of the Act.
 
 ## LEGISLATIVE HISTORY
 
-## Accountants Act
+Accountants Act
 
-## (CHAPTER 2)
+(CHAPTER 2)
 
 This Legislative History is provided for the convenience of users of the Accountants Act. It is not part of the Act.
 
-1.
-
-Act 4 of 2004—Accountants Act 2004
-
-Date of First Reading
-
-:
-
-5 January 2004
-
-(Bill No. 2/2004 published on 6 January 2004)
-
-Date of Second and Third Readings
-
-:
-
-6 February 2004
-
-Date of commencement
-
-:
-
-1 April 2004
-
-2.
-
-Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004
-
-Date of First Reading
-
-:
-
-15 June 2004
-
-(Bill No. 27/2004 published on 16 June 2004)
-
-Date of Second and Third Readings
-
-:
-
-20 July 2004
-
-Date of commencement
-
-:
-
-1 September 2004 (except section 3)
-
-3.
-
-2005 Revised Edition—Accountants Act
-
-Date of operation
-
-:
-
-31 July 2005
-
-4.
-
-Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading
-
-:
-
-17 October 2005
-
-(Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings
-
-:
-
-21 November 2005
-
-Dates of commencement
-
-:
-
-1 January 2006 (item (2) of the Fifth Schedule)
-
-5.
-
-Act 11 of 2006—Accountants (Amendment) Act 2006
-
-Date of First Reading
-
-:
-
-17 January 2006
-
-(Bill No. 4/2006 published on 18 January 2006)
-
-Date of Second and Third Readings
-
-:
-
-14 February 2006
-
-Date of commencement
-
-:
-
-6 October 2006
-
-6.
-
-Act 5 of 2013—Singapore Accountancy Commission Act 2013
-
+||||
+|:-|:-|:-|
+|1.|**Act 4 of 2004—Accountants Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 2/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
+|2.|**Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004**|
+||Date of First Reading|15 June 2004|
+|||(Bill No. 27/2004 published on 16 June 2004)|
+||Date of Second and Third Readings|20 July 2004|
+||Date of commencement|1 September 2004 (except section 3)|
+|3.|**2005 Revised Edition—Accountants Act**|
+||Date of operation|31 July 2005|
+|4.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006 (item (2) of the Fifth Schedule)|
+|5.|**Act 11 of 2006—Accountants (Amendment) Act 2006**|
+||Date of First Reading|17 January 2006|
+|||(Bill No. 4/2006 published on 18 January 2006)|
+||Date of Second and Third Readings|14 February 2006|
+||Date of commencement|6 October 2006|
+|6.|**Act 5 of 2013—Singapore Accountancy Commission Act 2013**|
 (Consequential amendments made to Act by)
 
-Date of First Reading
-
-:
-
-15 November 2012 (Bill No. 40/2012 published on 15 November 2012)
-
-Date of Second and Third Readings
-
-:
-
-15 January 2013
-
-Date of commencement
-
-:
-
-1 April 2013
-
-7.
-
-Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014
-
-Date of First Reading
-
-:
-
-14 February 2014 (Bill No. 8/2014 published on 17 February 2014)
-
-Date of Second and Third Readings
-
-:
-
-14 April 2014
-
-Date of commencement
-
-:
-
-15 May 2015
-
-8.
-
-Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014
-
-Date of First Reading
-
-:
-
-8 September 2014
-
-(Bill No. 24/2014)
-
-Date of Second and Third Readings
-
-:
-
-7 October 2014
-
-Date of commencement
-
-:
-
-3 January 2016
-
-9.
-
-Act 15 of 2017—Companies (Amendment) Act 2017
-
-Date of First Reading
-
-:
-
-28 February 2017 (Bill No. 13/2017 published on 28 February 2017)
-
-Date of Second and Third Readings
-
-:
-
-10 March 2017
-
-Date of commencement
-
-:
-
-31 March 2017
-
+||Date of First Reading|15 November 2012 (Bill No. 40/2012 published on 15 November 2012)|
+||Date of Second and Third Readings|15 January 2013|
+||Date of commencement|1 April 2013|
+|7.|**Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014**|
+||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
+||Date of Second and Third Readings|14 April 2014|
+||Date of commencement|15 May 2015|
+|8.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 24/2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|3 January 2016|
+|9.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
