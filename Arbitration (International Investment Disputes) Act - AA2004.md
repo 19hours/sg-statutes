@@ -50,9 +50,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 #### Interpretation
 
-2.
-
-—(1)  In this Act, unless the context otherwise requires —
+2.—(1)  In this Act, unless the context otherwise requires —
 
 “award” includes any decision interpreting, reversing or annulling an award, being a decision pursuant to the Convention, and any decision as to costs which under the Convention is to form part of the award;
 
@@ -68,9 +66,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 #### Registration of Convention awards
 
-4.
-
-—(1)  Any person seeking recognition or enforcement of an award rendered pursuant to the Convention shall be entitled to have the award registered in the High Court subject to proof of any matters that may be prescribed and to the other provisions of this Act.
+4.—(1)  Any person seeking recognition or enforcement of an award rendered pursuant to the Convention shall be entitled to have the award registered in the High Court subject to proof of any matters that may be prescribed and to the other provisions of this Act.
 
 (2)  [Deleted by Act 34 of 1992]
 
@@ -126,9 +122,7 @@ to provide for the stay of execution (whether provisionally or otherwise) of any
 
 #### Certain provisions of Convention to have force of law
 
-9.
-
-—(1)  Notwithstanding anything to the contrary in any written law, the provisions of Articles 18, 19, 20, 21(a) (with Article 22 as it applies to Article 21(a)), 23(1) and 24 shall have the force of law.
+9.—(1)  Notwithstanding anything to the contrary in any written law, the provisions of Articles 18, 19, 20, 21(a) (with Article 22 as it applies to Article 21(a)), 23(1) and 24 shall have the force of law.
 
 (2)  Nothing in Article 24(1) of the Convention shall be construed as —
 
