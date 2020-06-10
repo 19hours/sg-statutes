@@ -826,13 +826,9 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 (i) not less than two-thirds, or such other proportion as may be prescribed, of the directors (including the chairman) shall be public accountants, or —
 
-(A)
+(A) if the company or proposed company has only one director, that that director shall be a public accountant; or
 
-if the company or proposed company has only one director, that that director shall be a public accountant; or
-
-(B)
-
-if the company or proposed company has only 2 directors, that one of those directors shall be a public accountant;
+(B) if the company or proposed company has only 2 directors, that one of those directors shall be a public accountant;
 
 (ii) not less than two-thirds, or such other proportion as may be prescribed, of the voting shares of the company or proposed company shall be owned by corporate practitioners; and
 
