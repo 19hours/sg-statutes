@@ -2156,27 +2156,27 @@ Constitution and proceedings of Oversight Committee
 
 Appointment of Chairman
 
-1. The Chairman of the Oversight Committee shall be appointed by the Authority from among its members.
+1\. The Chairman of the Oversight Committee shall be appointed by the Authority from among its members.
 
 Temporary Chairman
 
-2. The Authority may appoint any member of the Oversight Committee to be a temporary Chairman whenever the Chairman is unable to discharge his functions because of absence from Singapore or incapacity from illness or otherwise.
+2\. The Authority may appoint any member of the Oversight Committee to be a temporary Chairman whenever the Chairman is unable to discharge his functions because of absence from Singapore or incapacity from illness or otherwise.
 
 Revocation of appointment
 
-3. The Authority may, at any time, revoke the appointment of any member of the Oversight Committee and, in exercising its power under this paragraph, the Authority shall not be required to assign any reason for such revocation.
+3\. The Authority may, at any time, revoke the appointment of any member of the Oversight Committee and, in exercising its power under this paragraph, the Authority shall not be required to assign any reason for such revocation.
 
 Tenure of office of appointed member
 
-4. A member of the Oversight Committee, unless he resigns during his term of office, shall hold office for a period not exceeding 3 years and shall be eligible for reappointment on completion of that period.
+4\. A member of the Oversight Committee, unless he resigns during his term of office, shall hold office for a period not exceeding 3 years and shall be eligible for reappointment on completion of that period.
 
 Filling of vacancies
 
-5. If an appointed member resigns, dies or has his appointment revoked before the expiry of the term for which he has been appointed, the Authority may appoint a person to fill the vacancy in the manner in which the appointment to the vacant office was made and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
+5\. If an appointed member resigns, dies or has his appointment revoked before the expiry of the term for which he has been appointed, the Authority may appoint a person to fill the vacancy in the manner in which the appointment to the vacant office was made and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
 
 Oversight Committee may act notwithstanding vacancy
 
-6. The Oversight Committee may act notwithstanding any vacancy in its membership.
+6\. The Oversight Committee may act notwithstanding any vacancy in its membership.
 
 Meetings of Oversight Committee
 
