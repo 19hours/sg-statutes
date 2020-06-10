@@ -132,9 +132,9 @@
 
 - [51 Procedure of Disciplinary Committee](#Procedure-of-Disciplinary-Committee)
 
-- [52 Cancellation of registration, suspension, etc., of public accountants](#Cancellation-of-registration-suspension-etc.-of-public-accountants)
+- [52 Cancellation of registration, suspension, etc., of public accountants](#Cancellation-of-registration-suspension-etc-of-public-accountants)
 
-- [53 Revocation of approval, etc., of accounting corporations, accounting firms and accounting LLPs](#Revocation-of-approval-etc.-of-accounting-corporations-accounting-firms-and-accounting-LLPs)
+- [53 Revocation of approval, etc., of accounting corporations, accounting firms and accounting LLPs](#Revocation-of-approval-etc-of-accounting-corporations-accounting-firms-and-accounting-LLPs)
 
 - [54 Appeal against disciplinary orders of Oversight Committee](#Appeal-against-disciplinary-orders-of-Oversight-Committee)
 
@@ -150,7 +150,7 @@
 
 - [59 Restrictions on employing disqualified persons](#Restrictions-on-employing-disqualified-persons)
 
-- [60 Offences committed by bodies corporate, etc.](#Offences-committed-by-bodies-corporate-etc.)
+- [60 Offences committed by bodies corporate, etc.](#Offences-committed-by-bodies-corporate-etc)
 
 - [61 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
