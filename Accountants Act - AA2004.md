@@ -234,29 +234,19 @@ PRELIMINARY
 
 “corporate practitioner” —
 
-(a)
+(a) in relation to an accounting corporation, means a director or an employee of the corporation who is a public accountant and practising as such in that corporation; and
 
-in relation to an accounting corporation, means a director or an employee of the corporation who is a public accountant and practising as such in that corporation; and
-
-(b)
-
-in relation to an accounting LLP, means a partner or an employee of the accounting LLP who is a public accountant and practising as such in the accounting LLP;
+(b) in relation to an accounting LLP, means a partner or an employee of the accounting LLP who is a public accountant and practising as such in the accounting LLP;
 
 [11/2006 wef 06/10/2006]
 
 “costs and expenses”, in relation to any proceedings under Part VI, includes —
 
-(a)
+(a) the costs and expenses of any legal assessor and any advocate and solicitor appointed by the Oversight Committee for proceedings before a Complaints Committee or a Disciplinary Committee;
 
-the costs and expenses of any legal assessor and any advocate and solicitor appointed by the Oversight Committee for proceedings before a Complaints Committee or a Disciplinary Committee;
+(b) such reasonable expenses as the Oversight Committee may pay to witnesses; and
 
-(b)
-
-such reasonable expenses as the Oversight Committee may pay to witnesses; and
-
-(c)
-
-such reasonable expenses as are necessary for, or incidental to, the institution and conduct of proceedings before a Complaints Committee or a Disciplinary Committee;
+(c) such reasonable expenses as are necessary for, or incidental to, the institution and conduct of proceedings before a Complaints Committee or a Disciplinary Committee;
 
 “Disciplinary Committee” means a Disciplinary Committee constituted under Part VI;
 
@@ -264,13 +254,9 @@ such reasonable expenses as are necessary for, or incidental to, the institution
 
 “identification” means —
 
-(a)
+(a) in the case of an individual issued with an identity card under the National Registration Act (Cap. 201), the number of the individual’s identity card; and
 
-in the case of an individual issued with an identity card under the National Registration Act (Cap. 201), the number of the individual’s identity card; and
-
-(b)
-
-in the case of an individual not issued with an identity card under that Act, particulars of the individual’s passport or such other similar evidence of identity as is acceptable to the Registrar;
+(b) in the case of an individual not issued with an identity card under that Act, particulars of the individual’s passport or such other similar evidence of identity as is acceptable to the Registrar;
 
 [Act 35 of 2014 wef 03/01/2016]
 
@@ -320,13 +306,9 @@ in the case of an individual not issued with an identity card under that Act, pa
 
 “voting share”, in relation to a company or an accounting corporation, means an issued share in the company or accounting corporation other than —
 
-(a)
+(a) a share to which, in no circumstances, is there attached a right to vote; or
 
-a share to which, in no circumstances, is there attached a right to vote; or
-
-(b)
-
-a share to which there is attached a right to vote only in one or more of the following circumstances:
+(b) a share to which there is attached a right to vote only in one or more of the following circumstances:
 
 (i)
 
