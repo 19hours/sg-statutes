@@ -138,29 +138,19 @@ PRELIMINARY
 
 “Singapore national” means —
 
-(a)
+(a) a Singapore citizen; or
 
-a Singapore citizen; or
-
-(b)
-
-an entity incorporated, formed or established in Singapore under any written law.
+(b) an entity incorporated, formed or established in Singapore under any written law.
 
 ### Purposes of Act
 
 3\. The purposes of this Act are —
 
-(a)
+(a) to regulate the exploration for and exploitation of resources in the Area by persons sponsored by Singapore under the Convention and the Agreement;
 
-to regulate the exploration for and exploitation of resources in the Area by persons sponsored by Singapore under the Convention and the Agreement;
+(b) to ensure the effective protection of the marine environment against any harmful effects of those activities; and
 
-(b)
-
-to ensure the effective protection of the marine environment against any harmful effects of those activities; and
-
-(c)
-
-to fulfil Singapore’s obligations under the Convention and the Agreement in relation to those activities.
+(c) to fulfil Singapore’s obligations under the Convention and the Agreement in relation to those activities.
 
 ## PART 2
 
@@ -172,75 +162,43 @@ REGULATION OF DEEP SEABED MINING
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a)
+(a) in any case where the person is an individual —
 
-in any case where the person is an individual —
+(i) to a fine not exceeding $300,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
-(i)
+(ii) in the case of a continuing offence, to a further fine not exceeding $50,000 for every day or part thereof during which the offence continues after conviction, but not exceeding $500,000 in total; or
 
-to a fine not exceeding $300,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(b) in any other case —
 
-(ii)
+(i) to a fine not exceeding $300,000; and
 
-in the case of a continuing offence, to a further fine not exceeding $50,000 for every day or part thereof during which the offence continues after conviction, but not exceeding $500,000 in total; or
-
-(b)
-
-in any other case —
-
-(i)
-
-to a fine not exceeding $300,000; and
-
-(ii)
-
-in the case of a continuing offence, to a further fine not exceeding $50,000 for every day or part thereof during which the offence continues after conviction, but not exceeding $500,000 in total.
+(ii) in the case of a continuing offence, to a further fine not exceeding $50,000 for every day or part thereof during which the offence continues after conviction, but not exceeding $500,000 in total.
 
 ### Exceptions to section 4
 
 5\.—(1) A Singapore company may explore for or exploit a resource in a part of the Area if —
 
-(a)
+(a) the company has been granted a licence to explore for or exploit that type of resource in that part of the Area;
 
-the company has been granted a licence to explore for or exploit that type of resource in that part of the Area;
+(b) that licence remains in force;
 
-(b)
+(c) the company has entered into a corresponding ISA contract; and
 
-that licence remains in force;
-
-(c)
-
-the company has entered into a corresponding ISA contract; and
-
-(d)
-
-the corresponding ISA contract remains in force.
+(d) the corresponding ISA contract remains in force.
 
 (2) An individual who is a Singapore citizen may explore for or exploit a resource in a part of the Area if —
 
-(a)
+(a) the individual is acting as an employee or agent of —
 
-the individual is acting as an employee or agent of —
+(i) a Singapore company in respect of which the requirements of subsection (1) are satisfied; or
 
-(i)
+(ii) a person who has entered into an ISA contract under the sponsorship of any State other than Singapore, and the ISA contract remains in force; and
 
-a Singapore company in respect of which the requirements of subsection (1) are satisfied; or
+(b) the individual’s exploration or exploitation activities are within the scope of —
 
-(ii)
+(i) the licence granted to the Singapore company referred to in paragraph (a)(i); or
 
-a person who has entered into an ISA contract under the sponsorship of any State other than Singapore, and the ISA contract remains in force; and
-
-(b)
-
-the individual’s exploration or exploitation activities are within the scope of —
-
-(i)
-
-the licence granted to the Singapore company referred to in paragraph (a)(i); or
-
-(ii)
-
-the ISA contract referred to in paragraph (a)(ii),
+(ii) the ISA contract referred to in paragraph (a)(ii),
 
 as the case may be.
 
@@ -250,17 +208,11 @@ as the case may be.
 
 (2) A licence must state —
 
-(a)
+(a) the type of resource to which the licence applies;
 
-the type of resource to which the licence applies;
+(b) whether the licensee is allowed to explore for or exploit the resource; and
 
-(b)
-
-whether the licensee is allowed to explore for or exploit the resource; and
-
-(c)
-
-the part of the Area in which the licensee is allowed to explore for or exploit the resource.
+(c) the part of the Area in which the licensee is allowed to explore for or exploit the resource.
 
 (3) A licence must relate to only one type of resource.
 
@@ -272,33 +224,21 @@ the part of the Area in which the licensee is allowed to explore for or exploit 
 
 (3) Before granting a licence to a Singapore company, the Minister must be satisfied that —
 
-(a)
+(a) the company meets, or is likely to meet, the qualification standards under Annex III, Article 4 of the Convention;
 
-the company meets, or is likely to meet, the qualification standards under Annex III, Article 4 of the Convention;
+(b) the company will be applying to the ISA to enter into a corresponding ISA contract;
 
-(b)
+(c) it is in Singapore’s interest to grant the licence and sponsor the company’s application for a corresponding ISA contract; and
 
-the company will be applying to the ISA to enter into a corresponding ISA contract;
-
-(c)
-
-it is in Singapore’s interest to grant the licence and sponsor the company’s application for a corresponding ISA contract; and
-
-(d)
-
-such other criteria as may be prescribed are met.
+(d) such other criteria as may be prescribed are met.
 
 ### Certificate of sponsorship
 
 8\. Where the Minister has granted a licence, the Minister may —
 
-(a)
+(a) sponsor a licensee’s application to the ISA for a corresponding ISA contract; and
 
-sponsor a licensee’s application to the ISA for a corresponding ISA contract; and
-
-(b)
-
-issue a certificate of sponsorship to the licensee.
+(b) issue a certificate of sponsorship to the licensee.
 
 ### Coming into force and duration of licence
 
@@ -312,51 +252,29 @@ issue a certificate of sponsorship to the licensee.
 
 10\.—(1) The Minister may specify —
 
-(a)
+(a) licence conditions applicable to all licensees;
 
-licence conditions applicable to all licensees;
+(b) licence conditions applicable to a specified class of licensees; and
 
-(b)
-
-licence conditions applicable to a specified class of licensees; and
-
-(c)
-
-licence conditions applicable to a specified licensee.
+(c) licence conditions applicable to a specified licensee.
 
 (2) The Minister may, in particular, specify under subsection (1) licence conditions that —
 
-(a)
+(a) require a licensee to comply with —
 
-require a licensee to comply with —
+(i) the applicable provisions of the Convention, the Agreement and the rules, regulations and procedures of the ISA; and
 
-(i)
+(ii) the decisions of the ISA and its organs;
 
-the applicable provisions of the Convention, the Agreement and the rules, regulations and procedures of the ISA; and
+(b) where the licensee has entered into a corresponding ISA contract, require the licensee to comply with the terms and conditions of the ISA contract and any plan of work under the ISA contract;
 
-(ii)
+(c) require a licensee to report on its exploration or exploitation activities, at such intervals as may be specified;
 
-the decisions of the ISA and its organs;
+(d) require a licensee to inform the Minister of any matter relating to its exploration or exploitation activities;
 
-(b)
+(e) require a licensee to provide security, in such form and of such amount as are acceptable to the Minister, for the due performance of its obligations under its licence and this Act; and
 
-where the licensee has entered into a corresponding ISA contract, require the licensee to comply with the terms and conditions of the ISA contract and any plan of work under the ISA contract;
-
-(c)
-
-require a licensee to report on its exploration or exploitation activities, at such intervals as may be specified;
-
-(d)
-
-require a licensee to inform the Minister of any matter relating to its exploration or exploitation activities;
-
-(e)
-
-require a licensee to provide security, in such form and of such amount as are acceptable to the Minister, for the due performance of its obligations under its licence and this Act; and
-
-(f)
-
-require a licensee to execute an indemnity, in such form as is acceptable to the Minister, to indemnify the Government against any liability incurred by the Government (whether or not under the Convention or the Agreement) in relation to the licensee’s exploration or exploitation activities.
+(f) require a licensee to execute an indemnity, in such form as is acceptable to the Minister, to indemnify the Government against any liability incurred by the Government (whether or not under the Convention or the Agreement) in relation to the licensee’s exploration or exploitation activities.
 
 (3) The Minister may add to the conditions of a licence, or amend or cancel any existing condition, by notice in writing to the licensee.
 
@@ -376,45 +294,29 @@ require a licensee to execute an indemnity, in such form as is acceptable to the
 
 12\.—(1) The Minister may approve the transfer of a licence —
 
-(a)
+(a) on the application of the licensee and the intended transferee; and
 
-on the application of the licensee and the intended transferee; and
-
-(b)
-
-in accordance with this section.
+(b) in accordance with this section.
 
 (2) A licence may only be transferred to a Singapore company which —
 
-(a)
+(a) is eligible under section 7 to be granted a licence; and
 
-is eligible under section 7 to be granted a licence; and
-
-(b)
-
-meets such other criteria as may be prescribed.
+(b) meets such other criteria as may be prescribed.
 
 (3) The Minister’s approval under this section may be given with or without conditions.
 
 (4) The transfer of a licence takes effect on —
 
-(a)
+(a) the date on which the conditions (if any) for the Minister’s approval of the transfer are met; or
 
-the date on which the conditions (if any) for the Minister’s approval of the transfer are met; or
-
-(b)
-
-such other date as the Minister may specify.
+(b) such other date as the Minister may specify.
 
 (5) Where the Minister has approved the transfer of a licence, the Minister may —
 
-(a)
+(a) sponsor the new licensee’s application to the ISA for a corresponding ISA contract; and
 
-sponsor the new licensee’s application to the ISA for a corresponding ISA contract; and
-
-(b)
-
-issue a certificate of sponsorship to the new licensee.
+(b) issue a certificate of sponsorship to the new licensee.
 
 (6) The transfer of a licence does not affect any criminal or civil liability incurred by the original licensee.
 
@@ -422,45 +324,27 @@ issue a certificate of sponsorship to the new licensee.
 
 13\. A licence lapses when any of the following events occurs:
 
-(a)
+(a) the licensee fails to enter into a corresponding ISA contract within 12 months (or such longer period as the Minister may allow) after the licence is granted or transferred to the licensee;
 
-the licensee fails to enter into a corresponding ISA contract within 12 months (or such longer period as the Minister may allow) after the licence is granted or transferred to the licensee;
+(b) the ISA and a person other than the licensee enter into an ISA contract authorising the person to explore for or exploit the same type of resource in the same part of the Area as that under the licence;
 
-(b)
+(c) the corresponding ISA contract is terminated for any reason;
 
-the ISA and a person other than the licensee enter into an ISA contract authorising the person to explore for or exploit the same type of resource in the same part of the Area as that under the licence;
+(d) the licensee is wound up or otherwise dissolved under any written law;
 
-(c)
-
-the corresponding ISA contract is terminated for any reason;
-
-(d)
-
-the licensee is wound up or otherwise dissolved under any written law;
-
-(e)
-
-such other event as may be prescribed occurs.
+(e) such other event as may be prescribed occurs.
 
 ### Suspension or revocation of licence
 
 14\.—(1) The Minister may suspend or revoke a licence if —
 
-(a)
+(a) the licensee has contravened the provisions of this Act or the conditions of the licence;
 
-the licensee has contravened the provisions of this Act or the conditions of the licence;
+(b) the corresponding ISA contract is suspended for any reason;
 
-(b)
+(c) the Minister is satisfied that the licensee has not been carrying on, or will not be able to carry on, the licensee’s exploration or exploitation activities in a proper and satisfactory manner; or
 
-the corresponding ISA contract is suspended for any reason;
-
-(c)
-
-the Minister is satisfied that the licensee has not been carrying on, or will not be able to carry on, the licensee’s exploration or exploitation activities in a proper and satisfactory manner; or
-
-(d)
-
-the Minister is satisfied that it is in Singapore’s interest to suspend or revoke the licence.
+(d) the Minister is satisfied that it is in Singapore’s interest to suspend or revoke the licence.
 
 (2) If the Minister revokes a licence, the Minister may withdraw any certificate of sponsorship issued to the licensee.
 
@@ -480,59 +364,35 @@ the Minister is satisfied that it is in Singapore’s interest to suspend or rev
 
 16\.—(1) This section applies where —
 
-(a)
+(a) a licence expires;
 
-a licence expires;
+(b) a licence is transferred under section 12;
 
-(b)
+(c) a licence lapses under section 13; or
 
-a licence is transferred under section 12;
-
-(c)
-
-a licence lapses under section 13; or
-
-(d)
-
-a licensee has been informed under section 15(4) of the Minister’s decision to revoke the licence.
+(d) a licensee has been informed under section 15(4) of the Minister’s decision to revoke the licence.
 
 (2) The purposes of this section are —
 
-(a)
+(a) to secure the orderly cessation by a licensee of its exploration or exploitation activities; and
 
-to secure the orderly cessation by a licensee of its exploration or exploitation activities; and
-
-(b)
-
-to effectively protect the marine environment against any harmful effects of those activities or the cessation of those activities.
+(b) to effectively protect the marine environment against any harmful effects of those activities or the cessation of those activities.
 
 (3) The Minister may, for any of the purposes of this section, give directions to —
 
-(a)
+(a) the licensee;
 
-the licensee;
+(b) any director or senior manager of the licensee; or
 
-(b)
-
-any director or senior manager of the licensee; or
-
-(c)
-
-if there is no director or senior manager of the licensee who is able to comply with the directions of the Minister, any person who was a director of the licensee in the period of 6 months immediately preceding the date of the relevant event in subsection (1).
+(c) if there is no director or senior manager of the licensee who is able to comply with the directions of the Minister, any person who was a director of the licensee in the period of 6 months immediately preceding the date of the relevant event in subsection (1).
 
 (4) Without limiting subsection (3), the Minister may give all or any of the following directions under that subsection:
 
-(a)
+(a) a direction that the licensee continues to comply with all or any of its obligations under this Act and the conditions of its licence;
 
-a direction that the licensee continues to comply with all or any of its obligations under this Act and the conditions of its licence;
+(b) a direction that any records kept by the licensee be delivered to the Minister or any other person;
 
-(b)
-
-a direction that any records kept by the licensee be delivered to the Minister or any other person;
-
-(c)
-
-a direction that specified measures be taken to effectively prevent, contain or minimise any harmful effects to the marine environment.
+(c) a direction that specified measures be taken to effectively prevent, contain or minimise any harmful effects to the marine environment.
 
 (5) If the Minister is satisfied that a person has failed without reasonable excuse to comply with a direction given under subsection (3), the Minister may impose a financial penalty not exceeding $40,000 on the person for the non‑compliance.
 
@@ -546,13 +406,9 @@ a direction that specified measures be taken to effectively prevent, contain or 
 
 17\.—(1) Where a licensee is responsible or liable for any wrongful act under Annex III, Article 22 of the Convention, the Court may —
 
-(a)
+(a) order the licensee to pay to a person such compensation for the wrongful act as may be ordered to be paid to that person pursuant to that Article; and
 
-order the licensee to pay to a person such compensation for the wrongful act as may be ordered to be paid to that person pursuant to that Article; and
-
-(b)
-
-grant to a person such other remedy for the licensee’s wrongful act as may be granted to that person pursuant to that Article.
+(b) grant to a person such other remedy for the licensee’s wrongful act as may be granted to that person pursuant to that Article.
 
 (2) In this section, “licensee” includes a Singapore company which has ceased to hold a licence.
 
@@ -566,33 +422,21 @@ ENFORCEMENT OF DECISIONS AND AWARDS
 
 (2) To avoid doubt —
 
-(a)
+(a) a decision of the Seabed Disputes Chamber involving a State may be registered under subsection (1); but
 
-a decision of the Seabed Disputes Chamber involving a State may be registered under subsection (1); but
-
-(b)
-
-nothing in this section or section 19 affects any privilege or immunity that a State may claim against the enforcement of a registered decision of the Seabed Disputes Chamber.
+(b) nothing in this section or section 19 affects any privilege or immunity that a State may claim against the enforcement of a registered decision of the Seabed Disputes Chamber.
 
 ### Effect of registration
 
 19\. A registered decision of the Seabed Disputes Chamber is to be treated, for the following purposes, as if the decision was a judgment of the Court made on the date on which the decision was registered:
 
-(a)
+(a) the force and effect of the decision in relation to the enforcement of the decision;
 
-the force and effect of the decision in relation to the enforcement of the decision;
+(b) the exercise of the powers of the Court in relation to the enforcement of the decision;
 
-(b)
+(c) the taking of proceedings for or in relation to the enforcement of the decision;
 
-the exercise of the powers of the Court in relation to the enforcement of the decision;
-
-(c)
-
-the taking of proceedings for or in relation to the enforcement of the decision;
-
-(d)
-
-where the decision is for the payment of a sum of money, the carrying and computation of interest on that sum.
+(d) where the decision is for the payment of a sum of money, the carrying and computation of interest on that sum.
 
 ### Enforcement of arbitral awards
 
@@ -606,13 +450,9 @@ MISCELLANEOUS
 
 21\.—(1) Where an offence under this Act committed by a body corporate is proved —
 
-(a)
+(a) to have been committed with the consent or connivance of an officer; or
 
-to have been committed with the consent or connivance of an officer; or
-
-(b)
-
-to be attributable to any neglect on the officer’s part,
+(b) to be attributable to any neglect on the officer’s part,
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -620,25 +460,17 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
-(a)
+(a) to have been committed with the consent or connivance of a partner; or
 
-to have been committed with the consent or connivance of a partner; or
-
-(b)
-
-to be attributable to any neglect on the partner’s part,
+(b) to be attributable to any neglect on the partner’s part,
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
 (4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
-(a)
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
 
-to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
-
-(b)
-
-to be attributable to any neglect on the part of such an officer or member,
+(b) to be attributable to any neglect on the part of such an officer or member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -648,13 +480,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 “officer” —
 
-(a)
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
 
-in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
-
-(b)
-
-in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee, and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee, and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -672,45 +500,25 @@ in relation to an unincorporated association (other than a partnership), means t
 
 (2) The regulations made under subsection (1) may, in particular —
 
-(a)
+(a) prescribe anything that is required or allowed to be prescribed under this Act;
 
-prescribe anything that is required or allowed to be prescribed under this Act;
+(b) prescribe any fees to be paid for the purposes of this Act;
 
-(b)
+(c) prescribe how a document may be served for the purposes of this Act;
 
-prescribe any fees to be paid for the purposes of this Act;
+(d) prescribe any criteria to be satisfied before a licence may be granted or transferred;
 
-(c)
+(e) prescribe the procedures and forms for applications under this Act;
 
-prescribe how a document may be served for the purposes of this Act;
+(f) prescribe any requirements that a licensee must comply with;
 
-(d)
+(g) provide that either, but not both, of the following is to apply in respect of any specified provision of the regulations:
 
-prescribe any criteria to be satisfied before a licence may be granted or transferred;
+(i) the Minister may impose a financial penalty not exceeding $40,000 if the Minister is satisfied that the provision has been contravened;
 
-(e)
+(ii) the contravention of the provision shall be an offence punishable on conviction with a fine not exceeding $40,000; and
 
-prescribe the procedures and forms for applications under this Act;
-
-(f)
-
-prescribe any requirements that a licensee must comply with;
-
-(g)
-
-provide that either, but not both, of the following is to apply in respect of any specified provision of the regulations:
-
-(i)
-
-the Minister may impose a financial penalty not exceeding $40,000 if the Minister is satisfied that the provision has been contravened;
-
-(ii)
-
-the contravention of the provision shall be an offence punishable on conviction with a fine not exceeding $40,000; and
-
-(h)
-
-make different provisions for different purposes.
+(h) make different provisions for different purposes.
 
 (3) The Minister cannot make regulations for anything for which Rules of Court are required or permitted to be made under section 23.
 
