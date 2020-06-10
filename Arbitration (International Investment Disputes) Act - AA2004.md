@@ -190,33 +190,19 @@ Article 6
 
 (1) Without prejudice to the powers and functions vested in it by other provisions of this Convention, the Administrative Council shall
 
-(a)
+(a) adopt the administrative and financial regulations of the Centre;
 
-adopt the administrative and financial regulations of the Centre;
+(b) adopt the rules of procedure for the institution of conciliation and arbitration proceedings;
 
-(b)
+(c) adopt the rules of procedure for conciliation and arbitration proceedings (hereinafter called the Conciliation Rules and the Arbitration Rules);
 
-adopt the rules of procedure for the institution of conciliation and arbitration proceedings;
+(d) approve arrangements with the Bank for the use of the Bank’s administrative facilities and services;
 
-(c)
+(e) determine the conditions of service of the Secretary-General and of any Deputy Secretary-General;
 
-adopt the rules of procedure for conciliation and arbitration proceedings (hereinafter called the Conciliation Rules and the Arbitration Rules);
+(f) adopt the annual budget of revenues and expenditures of the Centre;
 
-(d)
-
-approve arrangements with the Bank for the use of the Bank’s administrative facilities and services;
-
-(e)
-
-determine the conditions of service of the Secretary-General and of any Deputy Secretary-General;
-
-(f)
-
-adopt the annual budget of revenues and expenditures of the Centre;
-
-(g)
-
-approve the annual report on the operation of the Centre.
+(g) approve the annual report on the operation of the Centre.
 
 The decisions referred to in sub-paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
 
@@ -310,17 +296,11 @@ Article 18
 
 The Centre shall have full international legal personality. The legal capacity of the Centre shall include the capacity
 
-(a)
+(a) to contract;
 
-to contract;
+(b) to acquire and dispose of movable and immovable property;
 
-(b)
-
-to acquire and dispose of movable and immovable property;
-
-(c)
-
-to institute legal proceedings.
+(c) to institute legal proceedings.
 
 Article 19
 
@@ -334,13 +314,9 @@ Article 21
 
 The Chairman, the members of the Administrative Council, persons acting as conciliators or arbitrators or members of a Committee appointed pursuant to paragraph (3) of Article 52, and the officers and employees of the Secretariat
 
-(a)
+(a) shall enjoy immunity from legal process with respect to acts performed by them in the exercise of their functions, except when the Centre waives this immunity;
 
-shall enjoy immunity from legal process with respect to acts performed by them in the exercise of their functions, except when the Centre waives this immunity;
-
-(b)
-
-not being local nationals, shall enjoy the same immunities from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of travelling facilities as are accorded by Contracting States to the representatives, officials and employees of comparable rank of other Contracting States.
+(b) not being local nationals, shall enjoy the same immunities from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of travelling facilities as are accorded by Contracting States to the representatives, officials and employees of comparable rank of other Contracting States.
 
 Article 22
 
@@ -370,13 +346,9 @@ Article 25
 
 (2) “National of another Contracting State” means:
 
-(a)
+(a) any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as on the date on which the request was registered pursuant to paragraph (3) of Article 28 or paragraph (3) of Article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
 
-any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as on the date on which the request was registered pursuant to paragraph (3) of Article 28 or paragraph (3) of Article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
-
-(b)
-
-any juridical person which had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration and any juridical person which had the nationality of the Contracting State party to the dispute on that date and which, because of foreign control, the parties have agreed should be treated as a national of another Contracting State for the purposes of this Convention.
+(b) any juridical person which had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration and any juridical person which had the nationality of the Contracting State party to the dispute on that date and which, because of foreign control, the parties have agreed should be treated as a national of another Contracting State for the purposes of this Convention.
 
 (3) Consent by a constituent subdivision or agency of a Contracting State shall require the approval of that State unless that State notifies the Centre that no such approval is required\.
 
@@ -518,13 +490,9 @@ Article 43
 
 Except as the parties otherwise agree, the Tribunal may, if it deems it necessary at any stage of the proceedings —
 
-(a)
+(a) call upon the parties to produce documents or other evidence, and
 
-call upon the parties to produce documents or other evidence, and
-
-(b)
-
-visit the scene connected with the dispute, and conduct such inquiries there as it may deem appropriate.
+(b) visit the scene connected with the dispute, and conduct such inquiries there as it may deem appropriate.
 
 Article 44
 
@@ -590,25 +558,15 @@ Article 52
 
 (1) Either party may request annulment of the award by an application in writing addressed to the Secretary-General on one or more of the following grounds:
 
-(a)
+(a) that the Tribunal was not properly constituted;
 
-that the Tribunal was not properly constituted;
+(b) that the Tribunal has manifestly exceeded its powers;
 
-(b)
+(c) that there was corruption on the part of a member of the Tribunal;
 
-that the Tribunal has manifestly exceeded its powers;
+(d) that there has been a serious departure from a fundamental rule of procedure; or
 
-(c)
-
-that there was corruption on the part of a member of the Tribunal;
-
-(d)
-
-that there has been a serious departure from a fundamental rule of procedure; or
-
-(e)
-
-that the award has failed to state the reasons on which it is based.
+(e) that the award has failed to state the reasons on which it is based.
 
 (2) The application shall be made within 120 days after the date on which the award was rendered except that when annulment is requested on the ground of corruption such application shall be made within 120 days after discovery of the corruption and in any event within 3 years after the date on which the award was rendered\.
 
@@ -694,13 +652,9 @@ Article 63
 
 Conciliation and arbitration proceedings may be held, if the parties so agree —
 
-(a)
+(a) at the seat of the Permanent Court of Arbitration or of any other appropriate institution, whether private or public, with which the Centre may make arrangements for that purpose; or
 
-at the seat of the Permanent Court of Arbitration or of any other appropriate institution, whether private or public, with which the Centre may make arrangements for that purpose; or
-
-(b)
-
-at any other place approved by the Commission or Tribunal after consultation with the Secretary-General.
+(b) at any other place approved by the Commission or Tribunal after consultation with the Secretary-General.
 
 Chapter VIII
 
@@ -766,29 +720,17 @@ Article 75
 
 The depositary shall notify all signatory States of the following:
 
-(a)
+(a) signatures in accordance with Article 67;
 
-signatures in accordance with Article 67;
+(b) deposits of instruments of ratification, acceptance and approval in accordance with Article 73;
 
-(b)
+(c) the date on which this Convention enters into force in accordance with Article 68;
 
-deposits of instruments of ratification, acceptance and approval in accordance with Article 73;
+(d) exclusions from territorial application pursuant to Article 70;
 
-(c)
+(e) the date on which any amendment of this Convention enters into force in accordance with Article 66; and
 
-the date on which this Convention enters into force in accordance with Article 68;
-
-(d)
-
-exclusions from territorial application pursuant to Article 70;
-
-(e)
-
-the date on which any amendment of this Convention enters into force in accordance with Article 66; and
-
-(f)
-
-denunciations in accordance with Article 71.
+(f) denunciations in accordance with Article 71.
 
 DONE at Washington in the English, French and Spanish languages, all 3 texts being equally authentic, in a single copy which shall remain deposited in the archives of the International Bank for Reconstruction and Development, which has indicated by its signature below its agreement to fulfil the functions with which it is charged under this Convention.
 
