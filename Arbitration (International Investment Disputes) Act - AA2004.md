@@ -736,9 +736,9 @@ DONE at Washington in the English, French and Spanish languages, all 3 texts bei
 
 ## LEGISLATIVE HISTORY
 
-## Arbitration (International Investment Disputes) Act
+Arbitration (International Investment Disputes) Act
 
-## (CHAPTER 11)
+(CHAPTER 11)
 
 This Legislative History is provided for the convenience of users of the Arbitration (International Investment Disputes) Act. It is not part of the Act.
 
