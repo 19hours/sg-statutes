@@ -240,19 +240,14 @@ Republic of Singapore Independence Act
 
 (CHAPTER RSI)
 
-&nbsp
-
 This Legislative History is provided for the convenience of users of the Republic of Singapore Independence Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 9 of 1965—Republic of Singapore Independence Act 1965**|
 ||Date of First Reading|13 December 1965|
-(Bill No. 43/1965)|
+|||(Bill No. 43/1965)|
 ||Date of Second and Third Readings|22 December 1965|
 ||Date of commencement|9 August 1965|
-2.
-
-1985 Revised Edition—Republic of Singapore Independence Act
-
+|2.|**1985 Revised Edition—Republic of Singapore Independence Act**|
 ||Date of operation|30 March 1987|
