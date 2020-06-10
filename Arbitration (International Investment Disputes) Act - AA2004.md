@@ -4,7 +4,7 @@
 
 **Table of Contents**
 
-[**Long Title**](#Arbitration-(International-Investment-Disputes)-Act)
+[**Long Title**](#Arbitration-International-Investment-Disputes-Act)
 
 - [1 Short title](#Short-title)
 
