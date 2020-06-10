@@ -176,7 +176,7 @@
 
 - [70 Transitional provisions relating to Institute of Certified Public Accountants of Singapore](#Transitional-provisions-relating-to-Institute-of-Certified-Public-Accountants-of-Singapore)
 
-[**THE SCHEDULE Constitution and proceedings of Oversight Committee**](#THE-SCHEDULE-Constitution-and-proceedings-of-Oversight-Committee)
+[**THE SCHEDULE Constitution and proceedings of Oversight Committee**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -2148,7 +2148,7 @@ the Oversight Committee may institute disciplinary proceedings under Part VI aga
 
 “successor society”, in relation to the Institute of Certified Public Accountants of Singapore, means the society registered under the Societies Act (Cap. 311) that is designated by the Minister, by notification in theGazette, to be the society succeeding to the functions of the Institute as a professional accountancy body.
 
-THE SCHEDULE
+## THE SCHEDULE
 
 Section 4(4) and (5)
 
