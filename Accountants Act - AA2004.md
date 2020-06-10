@@ -182,7 +182,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-## Accountants Act
+# Accountants Act
 
 (CHAPTER 2)
 
@@ -198,15 +198,15 @@ An Act relating to public accountants.
 
 [1st April 2004]
 
-### PART I
+## PART I
 
 PRELIMINARY
 
-#### Short title
+### Short title
 
 1\. This Act may be cited as the Accountants Act.
 
-#### Interpretation
+### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
@@ -332,11 +332,11 @@ PRELIMINARY
 
 [Act 35 of 2014 wef 03/01/2016]
 
-### PART II
+## PART II
 
 ADMINISTRATION OF ACT
 
-#### Administration of Act
+### Administration of Act
 
 3\. The Authority shall be responsible —
 
@@ -352,7 +352,7 @@ ADMINISTRATION OF ACT
 
 and shall carry out such functions subject to the general or special directions of the Minister.
 
-#### Appointment of Public Accountants Oversight Committee
+### Appointment of Public Accountants Oversight Committee
 
 4\.—(1) For the discharge of its functions under section 3, the Authority may, with the approval of the Minister and subject to subsection (2), appoint from among its members a committee to be known as the Public Accountants Oversight Committee.
 
@@ -364,7 +364,7 @@ and shall carry out such functions subject to the general or special directions 
 
 (5) The Authority may, with the approval of the Minister, amend or vary the Schedule by order in theGazette.
 
-#### Functions and powers of Oversight Committee
+### Functions and powers of Oversight Committee
 
 5\.—(1) The Oversight Committee shall assist the Authority in the discharge of the Authority’s functions under section 3 and, in so doing, shall —
 
@@ -424,7 +424,7 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 (3) Subject to any general or special direction given by the Authority, the Oversight Committee shall have the powers to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions.
 
-#### Appointment of sub-committees by Oversight Committee
+### Appointment of sub-committees by Oversight Committee
 
 6\.—(1) Subject to any general or special direction of the Authority, the Oversight Committee may appoint one or more sub-committees for any general or special purpose which in the opinion of the Oversight Committee may be better dealt with or managed by a sub-committee.
 
@@ -438,7 +438,7 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 (6) For the purposes of the Accounting and Corporate Regulatory Authority Act (Cap. 2A), any member of a sub-committee appointed by the Oversight Committee under or for the purposes of this Act shall be deemed to be a member of a committee of the Authority.
 
-#### Appointment and duties of Registrar
+### Appointment and duties of Registrar
 
 7\.—(1) The Authority shall, from among its officers, appoint —
 
@@ -460,7 +460,7 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 (3) Subject to such restrictions and limitations as the Authority or Oversight Committee may determine, the powers and duties of the Registrar under this Act may be exercised and discharged by a Deputy Registrar or an Assistant Registrar.
 
-#### Registers
+### Registers
 
 8\.—(1) The Registrar shall be responsible for the custody and maintenance of —
 
@@ -504,7 +504,7 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 (d) correct any error in any entry in any of the registers.
 
-#### Certificate of Registrar
+### Certificate of Registrar
 
 9\. Where any question arises as to whether or not —
 
@@ -522,11 +522,11 @@ and, if necessary, institute disciplinary proceedings in accordance with Part VI
 
 a certificate issued by the Registrar addressing such question shall be admissible as evidence in any proceedings and shall be prima facie evidence of the facts stated therein.
 
-### PART III
+## PART III
 
 REGISTRATION OF PUBLIC ACCOUNTANTS
 
-#### Qualifications for registration
+### Qualifications for registration
 
 10\.—(1) Any person who —
 
@@ -546,7 +546,7 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 [Accountants 2001 Ed., s. 12]
 
-#### Application for registration
+### Application for registration
 
 11\.—(1) Any person who desires to be registered as a public accountant under this Part may make an application to the Oversight Committee in such form or manner as the Oversight Committee may require.
 
@@ -596,7 +596,7 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 [Accountants 2001 Ed., s. 13]
 
-#### Certificate of registration and record in Register of Public Accountants
+### Certificate of registration and record in Register of Public Accountants
 
 12\.—(1) Upon a person being registered as a public accountant under this Part, the Registrar shall —
 
@@ -610,7 +610,7 @@ shall be entitled, on payment of the prescribed fee, to be registered as a publi
 
 [Accountants 2001 Ed., s. 15]
 
-#### Electronic transaction system
+### Electronic transaction system
 
 12A\.—(1) The Registrar may —
 
@@ -632,7 +632,7 @@ using the electronic transaction system established under Part VIA of the Accoun
 
 [Act 18 of 2014 wef 15/05/2015]
 
-#### Request for copy of filed documents
+### Request for copy of filed documents
 
 12B\.—(1) Subject to section 12C, a person may, upon payment of such fee as may be prescribed, require a copy of or an extract from any document, as may be prescribed, which is filed with the Registrar, to be given or certified by the Registrar.
 
@@ -640,7 +640,7 @@ using the electronic transaction system established under Part VIA of the Accoun
 
 [Act 35 of 2014 wef 03/01/2016]
 
-#### Alternate address
+### Alternate address
 
 12C\.—(1) Despite section 12B, the Registrar must not disclose or make available for public inspection the particulars of a public accountant’s residential address that is lodged with the Registrar under this Act or transmitted to the Registrar by the Commissioner of National Registration under section 8A of the National Registration Act (Cap. 201) if the requirements of subsection (2) are satisfied.
 
@@ -722,7 +722,7 @@ that public accountant is not, for a period of 3 years after the date on which t
 
 [Act 35 of 2014 wef 03/01/2016]
 
-#### Renewal of registration
+### Renewal of registration
 
 13\.—(1) Unless the Oversight Committee or the Registrar allows otherwise, a public accountant who desires to renew his certificate of registration upon its expiry shall, not less than one month before the date of the expiry, submit his application for the renewal to the Oversight Committee in such form or manner as the Oversight Committee may require.
 
@@ -742,7 +742,7 @@ that public accountant is not, for a period of 3 years after the date on which t
 
 (c) to satisfy such other requirement as the Oversight Committee thinks relevant.
 
-#### Duty to report change in particulars
+### Duty to report change in particulars
 
 14\.—(1) Every public accountant shall, whenever there is any change in his name, residential address or any other of his relevant particulars as recorded in the Register of Public Accountants, notify the Registrar of such change within 30 days thereof in such manner as the Oversight Committee may require.
 
@@ -756,7 +756,7 @@ that public accountant is not, for a period of 3 years after the date on which t
 
 [Accountants 2001 Ed., s. 16]
 
-#### Removal from Register of Public Accountants
+### Removal from Register of Public Accountants
 
 15\.—(1) The Registrar shall remove from the Register of Public Accountants the name and relevant particulars of any public accountant —
 
@@ -794,17 +794,17 @@ that public accountant is not, for a period of 3 years after the date on which t
 
 (6) Any public accountant who is aggrieved by an order under subsection (4) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
 
-#### Publication of list of public accountants
+### Publication of list of public accountants
 
 16\. The Registrar may, from time to time, prepare and publish in such form or manner as the Oversight Committee may determine a list of the names and particulars of all public accountants.
 
-### PART IV
+## PART IV
 
 ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 [11/2006 wef 06/10/2006]
 
-#### Approval of accounting corporations
+### Approval of accounting corporations
 
 17\.—(1) A public accountant who wishes to have a company or proposed company approved as an accounting corporation may apply to the Oversight Committee for approval of —
 
@@ -844,7 +844,7 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 [Accountants 2001 Ed., s. 19]
 
-#### Approval of accounting firms
+### Approval of accounting firms
 
 18\.—(1) A public accountant who wishes to have a firm or proposed firm approved as an accounting firm may apply to the Oversight Committee for approval of —
 
@@ -864,7 +864,7 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 [11/2006 wef 06/10/2006]
 
-#### Approval of accounting LLPs
+### Approval of accounting LLPs
 
 18A\.—(1) A public accountant who wishes to have a limited liability partnership or proposed limited liability partnership approved as an accounting LLP may apply to the Oversight Committee for the approval of —
 
@@ -888,7 +888,7 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 [11/2006 wef 06/10/2006]
 
-#### Name of accounting corporation, accounting firm or accounting LLP
+### Name of accounting corporation, accounting firm or accounting LLP
 
 19\.—(1) The Oversight Committee shall not approve the name or proposed name, or any proposed change in the name, of an accounting corporation, accounting firm or accounting LLP if it is of the opinion that the name or proposed name —
 
@@ -920,7 +920,7 @@ ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
 [Accountants 2001 Ed., s. 20]
 
-#### Right of appeal against decision of Oversight Committee
+### Right of appeal against decision of Oversight Committee
 
 20\.—(1) An applicant for approval by the Oversight Committee of —
 
@@ -948,7 +948,7 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 (4) The decision of the Minister on appeal under subsection (3) shall be final.
 
-#### Notification of approval and record in Register
+### Notification of approval and record in Register
 
 21\. Where the Oversight Committee has approved a company, a firm or a limited liability partnership as an accounting corporation, an accounting firm or an accounting LLP under this Part, the Registrar shall —
 
@@ -958,7 +958,7 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 [11/2006 wef 06/10/2006]
 
-#### Duty to report change in particulars
+### Duty to report change in particulars
 
 22\.—(1) A public accountant shall notify the Registrar of any change in the name or relevant particulars, as recorded in the Register of Public Accounting Corporations, the Register of Public Accounting Firms or the Register of Public Accounting Limited Liability Partnerships (as the case may be) of the accounting corporation, accounting firm or accounting LLP in which he is practising.
 
@@ -968,7 +968,7 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 (3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-#### Effect of company becoming accounting corporation
+### Effect of company becoming accounting corporation
 
 23\.—(1) An accounting corporation is authorised to do anything that a public accountant can do by law and is required to do all that a public accountant is required to do by law in respect of the provision of public accountancy services by that accounting corporation.
 
@@ -980,7 +980,7 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 (4) The mere fact that a public accountant personally provides public accountancy services as a director or an employee of an accounting corporation shall not affect the personal liability of that public accountant at law.
 
-#### Effect of becoming accounting LLP
+### Effect of becoming accounting LLP
 
 23A\.—(1) An accounting LLP is authorised to do anything that a public accountant can do by law and is required to do all that a public accountant is required to do by law in respect of the provision of public accountancy services by that accounting LLP.
 
@@ -992,13 +992,13 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 [11/2006 wef 06/10/2006]
 
-#### Relationship between client and accounting corporation or accounting LLP
+### Relationship between client and accounting corporation or accounting LLP
 
 24\. An accounting corporation and an accounting LLP shall have the same rights and be subject to the same fiduciary, confidential and ethical requirements with respect to each client of the accounting corporation or accounting LLP, as the case may be, in respect of the provision of public accountancy services that exist at law with respect to a public accountant and his client.
 
 [11/2006 wef 06/10/2006]
 
-#### Professional misconduct
+### Professional misconduct
 
 25\.—(1) An act or omission of a public accountant may constitute improper or dishonourable conduct in the discharge of his professional duty even though it is only done or occurs while the public accountant provides public accountancy services through an accounting corporation, an accounting firm or an accounting LLP.
 
@@ -1010,7 +1010,7 @@ and may make such order as to the payment of costs by the Authority or by the ap
 
 [Accountants 2001 Ed., s. 25]
 
-#### Requirements relating to memorandum and articles of association, and annual reports, of accounting corporations
+### Requirements relating to memorandum and articles of association, and annual reports, of accounting corporations
 
 26\.—(1) The memorandum and articles of association of an accounting corporation shall at all times comply with all the requirements specified in section 17(3)(a) and (c) and the rules relating thereto.
 
@@ -1032,7 +1032,7 @@ furnish the Registrar with a true report in writing giving full particulars of t
 
 [11/2006 wef 06/10/2006]
 
-#### Shares of accounting corporation
+### Shares of accounting corporation
 
 27\.—(1) Subject to the provisions of this Act, the voting shares in an accounting corporation shall at all times be owned by corporate practitioners in such proportions referred to in section 17(3)(c)(ii) and shall comply with the prescribed requirements.
 
@@ -1086,7 +1086,7 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 [Accountants 2001 Ed., s. 27]
 
-#### Professional indemnity insurance
+### Professional indemnity insurance
 
 28\.—(1) Every accounting corporation and every accounting LLP registered under this Act shall be covered by professional indemnity insurance of not less than one of the following amounts, whichever is the highest:
 
@@ -1102,7 +1102,7 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 [Accountants 2001 Ed., s. 28]
 
-#### Management of accounting corporation
+### Management of accounting corporation
 
 29\.—(1) Only members of an accounting corporation may be appointed as directors of the accounting corporation.
 
@@ -1114,7 +1114,7 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 [Accountants 2001 Ed., s. 29]
 
-#### Application of Companies Act and other written laws to accounting corporations
+### Application of Companies Act and other written laws to accounting corporations
 
 30\.—(1) Nothing in this Part, with the exception of section 19(2), shall affect the operation of the Companies Act (Cap. 50) in relation to its application to a company that is an accounting corporation.
 
@@ -1126,7 +1126,7 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 [Accountants 2001 Ed., s. 30]
 
-#### Application of Limited Liability Partnerships Act 2005 and other written laws to accounting LLPs
+### Application of Limited Liability Partnerships Act 2005 and other written laws to accounting LLPs
 
 30A\.—(1) Nothing in this Part shall affect the operation of the Limited Liability Partnerships Act 2005 (Act 5 of 2005) in relation to its application to a limited liability partnership that is an accounting LLP.
 
@@ -1134,7 +1134,7 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 [11/2006 wef 06/10/2006]
 
-#### Removal from Register of Public Accounting Corporations, Register of Public Accounting Firms or Register of Public Accounting Limited Liability Partnerships
+### Removal from Register of Public Accounting Corporations, Register of Public Accounting Firms or Register of Public Accounting Limited Liability Partnerships
 
 31\.—(1) The Registrar shall remove from the Register of Public Accounting Corporations the name and relevant particulars of any accounting corporation if —
 
@@ -1196,11 +1196,11 @@ the Oversight Committee may, upon the application of the accounting corporation 
 
 (6) Any person who is aggrieved by an order under subsection (4) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
 
-### PART V
+## PART V
 
 PRACTICE MONITORING PROGRAMME
 
-#### Interpretation of this Part
+### Interpretation of this Part
 
 32\. In this Part —
 
@@ -1212,13 +1212,13 @@ PRACTICE MONITORING PROGRAMME
 
 “reviewer” means any person who is appointed by the Oversight Committee under section 35 to carry out a practice review.
 
-#### Practice monitoring programme for public accountants
+### Practice monitoring programme for public accountants
 
 33\.—(1) The Oversight Committee may require, as a condition for a public accountant to be allowed to remain in practice, that the public accountant should undergo, at such periods as the Oversight Committee may determine, a practice monitoring programme under this Part and successfully pass the practice reviews carried out under such programme.
 
 (2) The Oversight Committee may require a public accountant undergoing a practice monitoring programme to pay such fee as it may specify in connection with the administration of the programme.
 
-#### Appointment of Practice Monitoring Sub-committee
+### Appointment of Practice Monitoring Sub-committee
 
 34\.—(1) The Oversight Committee may, with the approval of the Authority, appoint a Practice Monitoring Sub-committee to assist the Oversight Committee in designing and implementing the practice monitoring programmes for the purposes of this Part.
 
@@ -1228,11 +1228,11 @@ PRACTICE MONITORING PROGRAMME
 
 (4) Subject to this Part and to any general or special direction of the Authority or the Oversight Committee, the Practice Monitoring Sub-committee may regulate its own procedure and business.
 
-#### Appointment of reviewers
+### Appointment of reviewers
 
 35\. The Oversight Committee may appoint any employee of the Authority or any other suitably qualified person as a reviewer to carry out any practice review under this Part.
 
-#### Practice reviews
+### Practice reviews
 
 36\.—(1) A reviewer shall carry out a practice review in accordance with —
 
@@ -1260,13 +1260,13 @@ PRACTICE MONITORING PROGRAMME
 
 (3) Nothing in this section shall be taken to compel the production by a public accountant of a record or document containing a privileged communication by or to a legal practitioner in that capacity.
 
-#### Reviewer to submit report
+### Reviewer to submit report
 
 37\.—(1) A reviewer who carries out a practice review under this Part shall submit a report to the Practice Monitoring Sub-committee at the conclusion of the practice review and at any other stage thereof as may be required by the Practice Monitoring Sub-committee.
 
 (2) Where after the conclusion of a practice review the Practice Monitoring Sub-committee, having had regard to any report submitted by the reviewer, is of the opinion that the public accountant concerned has failed to observe, maintain or apply the prescribed professional standards, methods, procedures or other requirements, the Practice Monitoring Sub-committee shall make a report thereof to the Oversight Committee.
 
-#### Consequences of failure to pass practice review
+### Consequences of failure to pass practice review
 
 38\.—(1) Upon receiving the report of the Practice Monitoring Sub-committee under section 37(2) and considering the recommendations therein, the Oversight Committee may —
 
@@ -1306,11 +1306,11 @@ PRACTICE MONITORING PROGRAMME
 
 (8) The decision of the High Court on an appeal under subsection (7) shall be final.
 
-### PART VI
+## PART VI
 
 DISCIPLINARY PROCEEDINGS
 
-#### Appointment of Complaints and Disciplinary Panel
+### Appointment of Complaints and Disciplinary Panel
 
 39\.—(1) For the purpose of enabling Complaints Committees and Disciplinary Committees to be constituted under this Part, the Oversight Committee shall appoint a panel, to be known as the Complaints and Disciplinary Panel, consisting of such number of public accountants and lay persons as the Oversight Committee thinks fit.
 
@@ -1320,7 +1320,7 @@ DISCIPLINARY PROCEEDINGS
 
 (4) The Oversight Committee may at any time remove from office any member of the Complaints and Disciplinary Panel or fill any vacancy in its membership.
 
-#### Complaints against public accountants, accounting corporations, accounting firms and accounting LLPs
+### Complaints against public accountants, accounting corporations, accounting firms and accounting LLPs
 
 40\.—(1) Any complaint concerning —
 
@@ -1338,7 +1338,7 @@ shall be made to the Oversight Committee in writing and shall be supported by su
 
 (4) Any person who makes a complaint to the Oversight Committee under this Part which he knows to be false in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-#### Review of complaint
+### Review of complaint
 
 41\.—(1) Subject to subsection (2), the Oversight Committee shall, upon receiving any complaint under section 40, refer the complaint to the Registrar for review.
 
@@ -1390,7 +1390,7 @@ recommend to the Oversight Committee to refer the matter to a Disciplinary Commi
 
 as appropriate, and refer the complaint or information thereto for an inquiry or a formal hearing, as the case may be.
 
-#### Power to proceed with complaint notwithstanding complainant’s withdrawal
+### Power to proceed with complaint notwithstanding complainant’s withdrawal
 
 42\.—(1) The Oversight Committee may, if it thinks fit, direct that a complaint against a public accountant, an accounting corporation, an accounting firm or an accounting LLP be proceeded with at an inquiry of a Complaints Committee or a formal inquiry of a Disciplinary Committee notwithstanding that the complainant may have withdrawn the complaint at any time before or after the appointment of the Complaints Committee or Disciplinary Committee.
 
@@ -1398,7 +1398,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (2) Where the Oversight Committee has made a direction under subsection (1), the complaint shall be proceeded with as if it had originated as information which the Oversight Committee had, on its own motion, referred to the Registrar for review under section 41(2).
 
-#### Conviction final and conclusive
+### Conviction final and conclusive
 
 43\. In any proceedings instituted under this Part against a public accountant, an accounting corporation, an accounting firm or an accounting LLP arising from his or its conviction of a criminal offence, the Registrar, the Oversight Committee, a Complaints Committee, a Disciplinary Committee and the High Court on appeal from any order of the Oversight Committee, shall accept the conviction as final and conclusive unless —
 
@@ -1410,7 +1410,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 [11/2006 wef 06/10/2006]
 
-#### Constitution of Complaints Committee
+### Constitution of Complaints Committee
 
 44\.—(1) A Complaints Committee shall consist of the following members, all of whom shall be appointed from the Complaints and Disciplinary Panel:
 
@@ -1428,7 +1428,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (6) A member of a Complaints Committee shall, notwithstanding that he has ceased to be a member of the Complaints and Disciplinary Panel on the expiry of his term of office, continue to be a member of the Complaints Committee until such time as the Complaints Committee has completed its work.
 
-#### Proceedings of Complaints Committee
+### Proceedings of Complaints Committee
 
 45\.—(1) A Complaints Committee may meet from time to time for the purposes of its inquiry and may regulate its own procedure.
 
@@ -1468,7 +1468,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (11) The chairman of the Complaints Committee shall record its proceedings in writing and in sufficient detail to enable the Oversight Committee to follow the course of the proceedings.
 
-#### Powers of Complaints Committee
+### Powers of Complaints Committee
 
 46\.—(1) For the purposes of any inquiry, a Complaints Committee may —
 
@@ -1494,7 +1494,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (5) The Oversight Committee may appoint a legal assessor to advise the Complaints Committee on any matter of law arising in the course of its inquiry.
 
-#### Findings of Complaints Committee
+### Findings of Complaints Committee
 
 47\. Upon due inquiry into the complaint or information referred to it under this Part, a Complaints Committee shall —
 
@@ -1516,7 +1516,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 (c) if it is of the view that a formal inquiry is necessary, recommend to the Oversight Committee to constitute a Disciplinary Committee to hold the formal inquiry.
 
-#### Decision of Oversight Committee
+### Decision of Oversight Committee
 
 48\.—(1) Upon receipt of the findings and recommendation of a Complaints Committee under section 47(b) or (c), the Oversight Committee may either —
 
@@ -1550,7 +1550,7 @@ as appropriate, and refer the complaint or information thereto for an inquiry or
 
 the Oversight Committee shall appoint a Disciplinary Committee to conduct the formal inquiry.
 
-#### Constitution of Disciplinary Committee
+### Constitution of Disciplinary Committee
 
 49\.—(1) A Disciplinary Committee shall consist of —
 
@@ -1572,7 +1572,7 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 [Accountants 2001 Ed., s. 31]
 
-#### Notice of formal inquiry
+### Notice of formal inquiry
 
 50\.—(1) Before a Disciplinary Committee commences a formal inquiry into any complaint or information referred to it, the Registrar shall serve on the public accountant, accounting corporation, accounting firm or accounting LLP concerned a written notice of the formal inquiry.
 
@@ -1586,7 +1586,7 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 [11/2006 wef 06/10/2006]
 
-#### Procedure of Disciplinary Committee
+### Procedure of Disciplinary Committee
 
 51\.—(1) A Disciplinary Committee shall meet at such times and places as its chairman may appoint.
 
@@ -1636,7 +1636,7 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 (17) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Committee holding a formal inquiry, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include such a formal inquiry.
 
-#### Cancellation of registration, suspension, etc., of public accountants
+### Cancellation of registration, suspension, etc., of public accountants
 
 52\.—(1) If, at the conclusion of the formal inquiry, the Disciplinary Committee is satisfied that the public accountant —
 
@@ -1722,7 +1722,7 @@ the Disciplinary Committee shall report its findings to the Oversight Committee 
 
 [11/2006 wef 06/10/2006]
 
-#### Revocation of approval, etc., of accounting corporations, accounting firms and accounting LLPs
+### Revocation of approval, etc., of accounting corporations, accounting firms and accounting LLPs
 
 53\.—(1) If, at the conclusion of a formal inquiry, the Disciplinary Committee is satisfied that —
 
@@ -1816,7 +1816,7 @@ the Disciplinary Committee shall report its findings to the Oversight Committee 
 
 [11/2006 wef 06/10/2006]
 
-#### Appeal against disciplinary orders of Oversight Committee
+### Appeal against disciplinary orders of Oversight Committee
 
 54\.—(1) Any public accountant, accounting corporation, accounting firm or accounting LLP who or which is aggrieved with any decision made by the Oversight Committee under section 52 or 53 may appeal to the High Court within a period of 30 days (or such further period as the Oversight Committee may allow on application in any particular case) after the service of the decision of the Oversight Committee on the public accountant, accounting corporation, accounting firm or accounting LLP, as the case may be.
 
@@ -1826,11 +1826,11 @@ the Disciplinary Committee shall report its findings to the Oversight Committee 
 
 [Accountants 2001 Ed., s. 36]
 
-### PART VII
+## PART VII
 
 MISCELLANEOUS
 
-#### Reinstatement to Register
+### Reinstatement to Register
 
 55\.—(1) Where —
 
@@ -1844,7 +1844,7 @@ the public accountant, accounting corporation, accounting firm or accounting LLP
 
 [11/2006 wef 06/10/2006]
 
-#### Holding out as public accountant, accounting corporation, accounting firm or accounting LLP
+### Holding out as public accountant, accounting corporation, accounting firm or accounting LLP
 
 56\.—(1) A person who is not registered as a public accountant under this Act shall not —
 
@@ -1882,7 +1882,7 @@ the public accountant, accounting corporation, accounting firm or accounting LLP
 
 [Accountants 2001 Ed., s. 63]
 
-#### Remuneration for services rendered
+### Remuneration for services rendered
 
 57\.—(1) Subject to this Act, no person shall be entitled to recover any expenses or remuneration for or in respect of any public accountancy services rendered or provided unless the person rendering or providing such services is —
 
@@ -1910,7 +1910,7 @@ the public accountant, accounting corporation, accounting firm or accounting LLP
 
 [Accountants 2001 Ed., s. 64]
 
-#### Fraudulent practices in relation to registration
+### Fraudulent practices in relation to registration
 
 58\. Any person who —
 
@@ -1938,7 +1938,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Accountants 2001 Ed., s. 68]
 
-#### Restrictions on employing disqualified persons
+### Restrictions on employing disqualified persons
 
 59\.—(1) No public accountant shall in connection with his practice as such, and no accounting corporation, accounting firm or accounting LLP shall in connection with its business of providing public accountancy services, without the consent of the Oversight Committee, employ or remunerate any person who to his or its knowledge —
 
@@ -1972,7 +1972,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [11/2006 wef 06/10/2006]
 
-#### Offences committed by bodies corporate, etc.
+### Offences committed by bodies corporate, etc.
 
 60\.—(1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, partner, manager, secretary or any similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -1988,11 +1988,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Accountants 2001 Ed., s. 67]
 
-#### Jurisdiction of District Court
+### Jurisdiction of District Court
 
 61\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-#### Composition of offences
+### Composition of offences
 
 62\.—(1) The Oversight Committee or any officer of the Authority who is authorised by the Oversight Committee in that behalf may, in its or his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
 
@@ -2000,11 +2000,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Accountants 2001 Ed., s. 72]
 
-#### Protection from personal liability
+### Protection from personal liability
 
 63\. No suit or other legal proceedings shall lie personally against any person who is a member of a Complaints Committee or a Disciplinary Committee for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-#### Rules
+### Rules
 
 64\.—(1) The Authority may, with the approval of the Minister, make rules to give effect to this Act.
 
@@ -2054,17 +2054,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 15 of 2017 wef 31/03/2017]
 
-#### Service of documents on public accountant
+### Service of documents on public accountant
 
 64A\. Any document required to be served under this Act on a public accountant shall be sufficiently served if addressed to the public accountant and left at or sent by post to his residential address or, if the public accountant has provided an alternate address under section 12C, his alternate address.
 
 [Act 35 of 2014 wef 03/01/2016]
 
-### PART VIII
+## PART VIII
 
 SAVINGS AND TRANSITIONAL PROVISIONS
 
-#### Savings and transitionals for repealed Accountants Act
+### Savings and transitionals for repealed Accountants Act
 
 65\.—(1) All acts done before 1st April 2004 by the Public Accountants Board established under Part II of the repealed Accountants Act (Cap. 2, 2001 Ed.)\*shall continue to remain valid and applicable as though done by the Authority or the Oversight Committee, until such time as invalidated, revoked, cancelled or otherwise determined by the Authority or the Oversight Committee.
 
@@ -2076,7 +2076,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 (4) Any notice, order or direction issued or made before 1st April 2004 under the repealed Accountants Act shall be deemed to be a notice, an order or a direction issued or made under this Act.
 
-#### Savings and transitional provisions for public accountants, accounting corporations and accounting firms
+### Savings and transitional provisions for public accountants, accounting corporations and accounting firms
 
 66\.—(1) Every person who, immediately before 1st April 2004, was a registered public accountant under the repealed Accountants Act shall be deemed to be a registered public accountant under this Act.
 
@@ -2090,7 +2090,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 (b) be renewable in accordance with this Act.
 
-#### Pending disciplinary proceedings
+### Pending disciplinary proceedings
 
 67\.—(1) This Act shall not apply to any inquiry, investigation or other proceedings of a disciplinary nature commenced under the repealed Accountants Act before 1st April 2004, and the provisions of the repealed Accountants Act shall, subject to subsection (2)(b), continue to apply to such inquiry, investigation or proceedings as if this Act had not been enacted.
 
@@ -2102,7 +2102,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 (3) Nothing in this section shall be taken as prejudicing section 16 (effect of repeal) of the Interpretation Act (Cap. 1).
 
-#### Professional misconduct committed before 1st April 2004
+### Professional misconduct committed before 1st April 2004
 
 68\. Where —
 
@@ -2112,7 +2112,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 the Oversight Committee may institute disciplinary proceedings under Part VI against the public accountant or accounting corporation for the professional misconduct.
 
-#### Savings and transitionals for other written laws
+### Savings and transitionals for other written laws
 
 69\.—(1) In so far as it is necessary for preserving the effect of any written law or document —
 
@@ -2122,7 +2122,7 @@ the Oversight Committee may institute disciplinary proceedings under Part VI aga
 
 (2) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
-#### Transitional provisions relating to Institute of Certified Public Accountants of Singapore
+### Transitional provisions relating to Institute of Certified Public Accountants of Singapore
 
 70\.—(1) As from 1st April 2004 —
 
@@ -2198,19 +2198,19 @@ Common seal and execution of documents
 
 (3) Any document purporting to be sealed with the common seal and so authenticated shall, until the contrary is proved, be deemed to be validly executed.
 
-LEGISLATIVE SOURCE KEY
+## LEGISLATIVE SOURCE KEY
 
-Accountants Act
+## Accountants Act
 
-(CHAPTER 2)
+## (CHAPTER 2)
 
 Notes:—Unless otherwise stated, the abbreviation used in the cross-references are references to the Singapore Accountants Act (Cap. 2, 2001 Revised Edition). The references are provided for convenience and are not part of the Act.
 
-LEGISLATIVE HISTORY
+## LEGISLATIVE HISTORY
 
-Accountants Act
+## Accountants Act
 
-(CHAPTER 2)
+## (CHAPTER 2)
 
 This Legislative History is provided for the convenience of users of the Accountants Act. It is not part of the Act.
 

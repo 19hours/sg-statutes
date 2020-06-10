@@ -30,7 +30,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-## Arbitration (International Investment Disputes) Act
+# Arbitration (International Investment Disputes) Act
 
 (CHAPTER 11)
 
@@ -44,11 +44,11 @@ An Act to implement the International Convention on the Settlement of Investment
 
 [10th September 1968]
 
-#### Short title
+### Short title
 
 1\. This Act may be cited as the Arbitration (International Investment Disputes) Act.
 
-#### Interpretation
+### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
@@ -60,11 +60,11 @@ An Act to implement the International Convention on the Settlement of Investment
 
 (2) An award shall be deemed to have been rendered pursuant to the Convention on the date on which certified copies of the award were pursuant to the Convention despatched to the parties.
 
-#### Binding on Government
+### Binding on Government
 
 3\. Sections 4 and 5 shall bind the Government (but not so as to make an award enforceable against the Government in a manner in which a judgment would not be enforceable against the Government).
 
-#### Registration of Convention awards
+### Registration of Convention awards
 
 4\.—(1) Any person seeking recognition or enforcement of an award rendered pursuant to the Convention shall be entitled to have the award registered in the High Court subject to proof of any matters that may be prescribed and to the other provisions of this Act.
 
@@ -74,7 +74,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 (4) If at the date of the application for registration the pecuniary obligations imposed by the award have been partly satisfied, the award shall be registered only in respect of the balance, and accordingly if those obligations have been wholly satisfied, the award shall not be registered.
 
-#### Effect of registration
+### Effect of registration
 
 5\. Subject to the provisions of this Act, an award registered under section 4 shall, as respects the pecuniary obligations which it imposes, be of the same force and effect for the purposes of execution as if it had been a judgment of the High Court given when the award was rendered pursuant to the Convention and entered on the date of registration under this Act, and, so far as relates to such pecuniary obligations —
 
@@ -86,7 +86,7 @@ An Act to implement the International Convention on the Settlement of Investment
 
 as if the award had been such a judgment of the High Court.
 
-#### Power to make rules
+### Power to make rules
 
 6\. The Judges of the Supreme Court, or any 3 of them, of whom the Chief Justice shall be one, may make rules —
 
@@ -98,15 +98,15 @@ as if the award had been such a judgment of the High Court.
 
 (d) to provide for the stay of execution (whether provisionally or otherwise) of any award registered under this Act in accordance with the provisions of the Convention.
 
-#### Government contribution to expenses under Convention
+### Government contribution to expenses under Convention
 
 7\. Any sums required to meet any obligations of the Government arising out of Article 17 of the Convention (which obliges the Contracting States to meet any deficit of the Centre) shall be charged on and paid out of the Consolidated Fund.
 
-#### Exclusion of Arbitration Act
+### Exclusion of Arbitration Act
 
 8\. The provisions of the Arbitration Act (Cap. 10) shall not apply to proceedings pursuant to the Convention.
 
-#### Certain provisions of Convention to have force of law
+### Certain provisions of Convention to have force of law
 
 9\.—(1) Notwithstanding anything to the contrary in any written law, the provisions of Articles 18, 19, 20, 21(a) (with Article 22 as it applies to Article 21(a)), 23(1) and 24 shall have the force of law.
 
@@ -120,11 +120,11 @@ as if the award had been such a judgment of the High Court.
 
 (3) For the purposes of Articles 20 and 21(a) of the Convention as given the force of law by this section, a statement to the effect that the Centre has waived an immunity in the circumstances specified in the statement, being a statement certified by the Secretary-General of the Centre, or by the person acting as Secretary-General, shall be conclusive evidence of such waiver.
 
-#### Power of Minister to amend Schedule
+### Power of Minister to amend Schedule
 
 10\. The Minister may, by notification in theGazette, amend the Schedule in conformity with any amendments to the provisions of the Convention set out therein which may hereafter be duly made and adopted.
 
-### THE SCHEDULE
+## THE SCHEDULE
 
 Section 2(1)
 
@@ -734,11 +734,11 @@ The depositary shall notify all signatory States of the following:
 
 DONE at Washington in the English, French and Spanish languages, all 3 texts being equally authentic, in a single copy which shall remain deposited in the archives of the International Bank for Reconstruction and Development, which has indicated by its signature below its agreement to fulfil the functions with which it is charged under this Convention.
 
-### LEGISLATIVE HISTORY
+## LEGISLATIVE HISTORY
 
-### Arbitration (International Investment Disputes) Act
+## Arbitration (International Investment Disputes) Act
 
-### (CHAPTER 11)
+## (CHAPTER 11)
 
 This Legislative History is provided for the convenience of users of the Arbitration (International Investment Disputes) Act. It is not part of the Act.
 
