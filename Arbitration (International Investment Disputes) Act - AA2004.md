@@ -124,7 +124,7 @@ as if the award had been such a judgment of the High Court.
 
 10\. The Minister may, by notification in theGazette, amend the Schedule in conformity with any amendments to the provisions of the Convention set out therein which may hereafter be duly made and adopted.
 
-## THE SCHEDULE
+### THE SCHEDULE
 
 Section 2(1)
 
@@ -734,11 +734,11 @@ The depositary shall notify all signatory States of the following:
 
 DONE at Washington in the English, French and Spanish languages, all 3 texts being equally authentic, in a single copy which shall remain deposited in the archives of the International Bank for Reconstruction and Development, which has indicated by its signature below its agreement to fulfil the functions with which it is charged under this Convention.
 
-LEGISLATIVE HISTORY
+### LEGISLATIVE HISTORY
 
-Arbitration (International Investment Disputes) Act
+### Arbitration (International Investment Disputes) Act
 
-(CHAPTER 11)
+### (CHAPTER 11)
 
 This Legislative History is provided for the convenience of users of the Arbitration (International Investment Disputes) Act. It is not part of the Act.
 
