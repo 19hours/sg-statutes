@@ -78,17 +78,11 @@ An Act to implement the International Convention on the Settlement of Investment
 
 5.  Subject to the provisions of this Act, an award registered under section 4 shall, as respects the pecuniary obligations which it imposes, be of the same force and effect for the purposes of execution as if it had been a judgment of the High Court given when the award was rendered pursuant to the Convention and entered on the date of registration under this Act, and, so far as relates to such pecuniary obligations —
 
-(a)
+(a) proceedings may be taken on the award;
 
-proceedings may be taken on the award;
+(b) the sum for which the award is registered shall carry interest; and
 
-(b)
-
-the sum for which the award is registered shall carry interest; and
-
-(c)
-
-the High Court shall have the same control over the execution of the award,
+(c) the High Court shall have the same control over the execution of the award,
 
 as if the award had been such a judgment of the High Court.
 
@@ -96,21 +90,13 @@ as if the award had been such a judgment of the High Court.
 
 6.  The Judges of the Supreme Court, or any 3 of them, of whom the Chief Justice shall be one, may make rules —
 
-(a)
+(a) to prescribe the procedure for applying for registration of an award under this Act, and to require the applicant to give prior notice of his intention to register to other parties;
 
-to prescribe the procedure for applying for registration of an award under this Act, and to require the applicant to give prior notice of his intention to register to other parties;
+(b) to prescribe matters to be proved on the application and the manner of proof, and in particular to require the applicant to furnish a copy of the award certified pursuant to the Convention;
 
-(b)
+(c) to provide for the service of notice of registration of the award by the applicant on other parties; and
 
-to prescribe matters to be proved on the application and the manner of proof, and in particular to require the applicant to furnish a copy of the award certified pursuant to the Convention;
-
-(c)
-
-to provide for the service of notice of registration of the award by the applicant on other parties; and
-
-(d)
-
-to provide for the stay of execution (whether provisionally or otherwise) of any award registered under this Act in accordance with the provisions of the Convention.
+(d) to provide for the stay of execution (whether provisionally or otherwise) of any award registered under this Act in accordance with the provisions of the Convention.
 
 #### Government contribution to expenses under Convention
 
@@ -126,17 +112,11 @@ to provide for the stay of execution (whether provisionally or otherwise) of any
 
 (2)  Nothing in Article 24(1) of the Convention shall be construed as —
 
-(a)
+(a) entitling the Centre to import into Singapore goods free of any customs duty without restriction on their subsequent sale therein;
 
-entitling the Centre to import into Singapore goods free of any customs duty without restriction on their subsequent sale therein;
+(b) conferring on the Centre any exemption from taxes or duties which form part of the price of goods sold; or
 
-(b)
-
-conferring on the Centre any exemption from taxes or duties which form part of the price of goods sold; or
-
-(c)
-
-conferring on the Centre any exemption from taxes or duties which are in fact no more than charges for services rendered.
+(c) conferring on the Centre any exemption from taxes or duties which are in fact no more than charges for services rendered.
 
 (3)  For the purposes of Articles 20 and 21(a) of the Convention as given the force of law by this section, a statement to the effect that the Centre has waived an immunity in the circumstances specified in the statement, being a statement certified by the Secretary-General of the Centre, or by the person acting as Secretary-General, shall be conclusive evidence of such waiver.
 
