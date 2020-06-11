@@ -20,8 +20,6 @@
 
 - [7 Exclusion by express stipulation](#Exclusion-by-express-stipulation)
 
-- [8 Validation of past apportionments](#Validation-of-past-apportionments)
-
 [**Legislative History**](#Legislative-History)
 
 # Apportionment Act
@@ -30,9 +28,9 @@
 
 (Original Enactment: Ordinance 25 of 1928)
 
-REVISED EDITION 1985
+REVISED EDITION 1998
 
-(30th March 1987)
+(15th December 1998)
 
 An Act for the better apportionment of rents and other periodical payments.
 
@@ -48,7 +46,7 @@ An Act for the better apportionment of rents and other periodical payments.
 
 “annuities” includes salaries and pensions;
 
-“dividends” includes (besides dividends strictly so called) all payments made by the name of dividend, bonus or otherwise out of the revenue of trading or other public companies, divisible between all or any of the members of the respective companies, whether the payments are usually made or declared at any fixed times or otherwise; and all that divisible revenue shall, for the purposes of this Act, be deemed to have accrued by equal daily increment during and within the period for or in respect of which the payment of the same revenue is declared or expressed to be made, but the word “dividends” does not include payments in the nature of a return or reimbursement of capital;
+“dividends” includes (besides dividends strictly so called) all payments made by the name of dividend, bonus or otherwise out of the revenue of trading or other public companies, divisible between all or any of the members of the respective companies, whether the payments are usually made or declared at any fixed times or otherwise; and all that divisible revenue shall, for the purposes of this Act, be deemed to have accrued by equal daily increment during and within the period for or in respect of which the payment of the same revenue is declared or expressed to be made, but does not include payments in the nature of a return or reimbursement of capital;
 
 “rents” includes all periodical payments or renderings in lieu of or in the nature of rent.
 
@@ -58,13 +56,17 @@ An Act for the better apportionment of rents and other periodical payments.
 
 ### Apportioned part of rent, etc., to be payable when next entire portion due
 
-4\. The apportioned part of any such rent, annuity, dividend or other payment shall be payable or recoverable, in the case of a continuing rent, annuity, or other such payment, when the entire portion of which such apportioned part forms part becomes due and payable, and not before; and, in the case of a rent, annuity, or other such payment determined by re-entry, death, or otherwise, when the next entire portion of the same would have been payable if the same had not so determined, and not before.
+4\. The apportioned part of any such rent, annuity, dividend or other payment shall be payable or recoverable —
+
+(a) in the case of a continuing rent, annuity, or other such payment, when the entire portion of which such apportioned part forms part becomes due and payable, and not before; and
+
+(b) in the case of a rent, annuity, or other such payment determined by re-entry, death, or otherwise, when the next entire portion of the same would have been payable if the same had not so determined, and not before.
 
 ### Remedies for recovering apportioned parts
 
-5\. All persons and their respective executors, administrators and assigns, and also the executors, administrators and assigns respectively of persons whose interests determine with their own deaths, shall have such or the same remedies for recovering such apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering the entire portions as aforesaid if entitled thereto respectively:
+5\.—(1) All persons and their respective executors, administrators and assigns, and also the executors, administrators and assigns respectively of persons whose interests determine with their own deaths, shall have such or the same remedies for recovering such apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering the entire portions as aforesaid if entitled thereto, respectively.
 
-Provided that persons liable to pay rents reserved out of or charged on lands or tenements, and the same lands or tenements, shall not be resorted to for any such apportioned part forming part of an entire or continuing rent as aforesaid specifically, but the entire or continuing rent, including such apportioned part, shall be recovered and received by the person who, if the rent had not been apportionable under this Act or otherwise, would have been entitled to the entire or continuing rent, and the apportioned part shall be recoverable from such person by the executors or other parties entitled under this Act to the same by suit.
+(2) Persons liable to pay rents reserved out of or charged on lands or tenements, and the same lands or tenements, shall not be resorted to for any such apportioned part forming part of an entire or continuing rent as aforesaid specifically, but the entire or continuing rent, including such apportioned part, shall be recovered and received by the person who, if the rent had not been apportionable under this Act or otherwise, would have been entitled to the entire or continuing rent, and the apportioned part shall be recoverable from such person by the executors or other parties entitled under this Act to the same by suit.
 
 ### Exclusion of policies of assurance
 
@@ -73,10 +75,6 @@ Provided that persons liable to pay rents reserved out of or charged on lands or
 ### Exclusion by express stipulation
 
 7\. This Act shall not extend to any case in which it is expressly stipulated that no apportionment shall take place.
-
-### Validation of past apportionments
-
-8\. No payment, composition, discharge or settlement of account made or given prior to 28th December 1928 shall be deemed invalid by reason only of the fact that it was made or given in pursuance of the apportionment of a periodical payment not lawfully apportionable, if such apportionment would have been lawful had it been made after that date, and under the provisions of this Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -99,3 +97,5 @@ This Legislative History is provided for the convenience of users of the Apporti
 ||Date of operation|1 March 1971|
 |5.|**1985 Revised Edition—Apportionment Act**|
 ||Date of operation|30 March 1987|
+|6.|**1998 Revised Edition—Apportionment Act**|
+||Date of operation|15 December 1998|
