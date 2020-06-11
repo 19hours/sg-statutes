@@ -1466,8 +1466,6 @@ Accounting and Corporate Regulatory Authority Act
 
 (CHAPTER 2A)
 
-&nbsp
-
 This Legislative History is provided for the convenience of users of the Accounting and Corporate Regulatory Authority Act. It is not part of the Act.
 
 ||||
