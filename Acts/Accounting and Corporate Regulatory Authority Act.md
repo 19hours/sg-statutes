@@ -1388,9 +1388,7 @@ Disqualification from membership
 
 (e) is otherwise unable or unfit to discharge the functions of a member.
 
-10.
-
-[Deleted by Act 5 of 2018 wef 01/04/2018]
+10. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Salaries, fees and allowances payable to members of Authority
 
@@ -1434,9 +1432,7 @@ Written laws administered and enforced by Authority
 
 3\. Companies Act (Cap. 50).
 
-4.
-
-[Deleted by Act 11/2005 wef 01/02/2006]
+4. [Deleted by Act 11/2005 wef 01/02/2006]
 
 5\. Limited Liability Partnerships Act (Act 5 of 2005).
 
@@ -1458,7 +1454,7 @@ Sections 5(5) and 37
 
 Designated entities
 
-1.
+1. 
 
 Institute of Singapore Chartered Accountants (formerly known as Institute of Certified Public Accountants of Singapore).
 
