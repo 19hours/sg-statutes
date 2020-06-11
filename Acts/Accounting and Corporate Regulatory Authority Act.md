@@ -134,7 +134,7 @@
 
 [**Comparative Table**](#Comparative-Table)
 
-# Accounting and Corporate Regulatory Authority Act
+Accounting and Corporate Regulatory Authority Act
 
 (CHAPTER 2A)
 
@@ -154,21 +154,21 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Accounting and Corporate Regulatory Authority Act.
+1\.   This Act may be cited as the Accounting and Corporate Regulatory Authority Act.
 
 ### Interpretation
 
-2\.—(1) In this Act, unless the context otherwise requires —
+2\.—(1)  In this Act, unless the context otherwise requires —
 
 “Authority” means the Accounting and Corporate Regulatory Authority established under section 3;
 
-“Chairman” means the Chairman of the Authority appointed under section 5(1)(a) and includes any temporary Chairman of the Authority;
+“Chairman” means the Chairman of the Authority appointed under section 5(1)(a) and includes any temporary Chairman of the Authority;
 
 “Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;
 
 “debenture” includes debenture stock;
 
-“Deputy Chairman” means any person who is appointed under section 5(3)(a) to be the Deputy Chairman of the Authority;
+“Deputy Chairman” means any person who is appointed under section 5(3)(a) to be the Deputy Chairman of the Authority;
 
 “member” means a member of the Authority;
 
@@ -182,11 +182,11 @@ PRELIMINARY
 
 [Act 44 of 2018 wef 14/01/2020]
 
-(2) A reference in this Act to a written law specified in the Second Schedule includes a part of a written law specified in that Schedule.
+(2)  A reference in this Act to a written law specified in the Second Schedule includes a part of a written law specified in that Schedule.
 
 [Act 44 of 2018 wef 14/01/2020]
 
-(3) To avoid doubt, a reference to “company” in the definition of “securities” in subsection (1), and in section 7(2)(b), includes a VCC as defined in the Variable Capital Companies Act 2018.
+(3)  To avoid doubt, a reference to “company” in the definition of “securities” in subsection (1), and in section 7(2)(b), includes a VCC as defined in the Variable Capital Companies Act 2018.
 
 [Act 44 of 2018 wef 14/01/2020]
 
@@ -196,7 +196,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 ### Establishment and incorporation of Accounting and Corporate Regulatory Authority
 
-3\. There is hereby established a body to be known as the Accounting and Corporate Regulatory Authority which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+3\.   There is hereby established a body to be known as the Accounting and Corporate Regulatory Authority which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
 
 (a) suing and being sued;
 
@@ -216,13 +216,13 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 ### Constitution of Authority
 
-5\.—(1) The Authority shall consist of the following members, all of whom shall be appointed by the Minister:
+5\.—(1)  The Authority shall consist of the following members, all of whom shall be appointed by the Minister:
 
 (a) a Chairman; and
 
 (b) not less than 10 but not more than 15 other members.
 
-(2) The members appointed under subsection (1)(b) shall include —
+(2)  The members appointed under subsection (1)(b) shall include —
 
 (a) one public accountant to be selected by the Minister from a list of at least 2 public accountants nominated by each designated professional accountancy body; and
 
@@ -232,7 +232,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(3) The Minister may, if he thinks fit, appoint —
+(3)  The Minister may, if he thinks fit, appoint —
 
 (a) a member of the Authority to be its Deputy Chairman; and
 
@@ -240,7 +240,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (4) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
-(5) In subsection (2), “designated professional accountancy body” means a body specified in the Fourth Schedule.
+(5)  In subsection (2), “designated professional accountancy body” means a body specified in the Fourth Schedule.
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -250,7 +250,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 ### Functions of Authority
 
-6\.—(1) Subject to the provisions of this Act, the functions of the Authority shall be —
+6\.—(1)  Subject to the provisions of this Act, the functions of the Authority shall be —
 
 (a) to administer the written laws specified in the Second Schedule;
 
@@ -266,11 +266,11 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (g) to carry out such other functions as may be conferred on the Authority by this Act or any other written law.
 
-(2) The Authority may undertake such other functions as the Minister may from time to time, by notification in theGazette, assign to the Authority and in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Authority in respect of such functions.
+(2)  The Authority may undertake such other functions as the Minister may from time to time, by notification in the Gazette, assign to the Authority and in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Authority in respect of such functions.
 
 (3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
 
-(4) In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations providing public accountancy services.
+(4)  In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations providing public accountancy services.
 
 [Act 5 of 2013 wef 01/04/2013]
 
@@ -278,7 +278,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 7\.—(1) The Authority shall have power to do anything for the purpose of discharging its functions under this Act or any other written law, or which is incidental or conducive to the discharge of those functions.
 
-(2) Without prejudice to the generality of subsection (1) but subject to this Act, the powers of the Authority shall include the power —
+(2)  Without prejudice to the generality of subsection (1) but subject to this Act, the powers of the Authority shall include the power —
 
 (a) to enter into such contracts as may be necessary or expedient for the purpose of discharging its functions;
 
@@ -318,7 +318,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 ### Directions by Minister
 
-8\.—(1) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.
+8\.—(1)  The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.
 
 [Act 5 of 2018 wef 01/04/2018]
 
@@ -328,7 +328,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 9\.—(1) The Authority may, in its discretion, appoint from among its own members or from among other persons such number of committees as it thinks fit for purposes which, in the opinion of the Authority, would be more expediently carried out or managed by means of such committees.
 
-(2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate —
+(2)  The Authority may, subject to such conditions or restrictions as it thinks fit, delegate —
 
 (a) to any of its members;
 
@@ -344,7 +344,7 @@ any of the functions or powers of the Authority under this Act or any other writ
 
 (3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Authority.
 
-(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
+(4)  [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## PART IV
 
@@ -354,7 +354,7 @@ PROVISIONS RELATING TO STAFF
 
 10\.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
+(2)  The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
 (a) is absent from duty or Singapore; or
 
@@ -366,13 +366,13 @@ PROVISIONS RELATING TO STAFF
 
 ### Protection from personal liability
 
-11\.—(1) No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything which is done or intended to be done in good faith and with reasonable care in the execution or purported execution of this Act or any other written law.
+11\.—(1)  No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything which is done or intended to be done in good faith and with reasonable care in the execution or purported execution of this Act or any other written law.
 
 [Act 18 of 2014 wef 15/05/2015]
 
 (2) Where the Authority provides a service to the public whereby information is supplied to the public pursuant to any written law, neither the Authority nor any of its members, officers or employees involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such member, officer or employee.
 
-12\. [Repealed by Act 5 of 2018 wef 01/04/2018]
+12\.   [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART V
 
@@ -380,11 +380,11 @@ FINANCIAL PROVISIONS
 
 ### Funds and property of Authority
 
-13\.—(1) The funds and property of the Authority shall consist of —
+13\.—(1)  The funds and property of the Authority shall consist of —
 
 (a) all grants-in-aid made under section 18;
 
-(b) all fees and other sums collected by the Authority or its officers under any written law unless otherwise expressly provided in subsection (2) or that other written law;
+(b) all fees and other sums collected by the Authority or its officers under any written law unless otherwise expressly provided in subsection (2) or that other written law;
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -404,7 +404,7 @@ FINANCIAL PROVISIONS
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(2) The following sums collected on or after the date of commencement of section 4 of the Accounting and Corporate Regulatory Authority (Amendment) Act 2014 by the Authority or any of its officers under this Act and any written law specified in the Second Schedule shall be paid into the Consolidated Fund:
+(2)  The following sums collected on or after the date of commencement of section 4 of the Accounting and Corporate Regulatory Authority (Amendment) Act 2014 by the Authority or any of its officers under this Act and any written law specified in the Second Schedule shall be paid into the Consolidated Fund:
 
 (a) any penalty for late payment or late filing;
 
@@ -414,17 +414,17 @@ FINANCIAL PROVISIONS
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(3) The Authority may recover on behalf of the Government any sum referred to in subsection (2)(a), (b) or (c) as though the sum were a civil debt due to the Authority.
+(3)  The Authority may recover on behalf of the Government any sum referred to in subsection (2)(a), (b) or (c) as though the sum were a civil debt due to the Authority.
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(4) The Authority may waive, refund or remit, wholly or in part, any fee that is paid or is payable to the Authority under any written law and which forms or would form part of the funds and property of the Authority under subsection (1).
+(4)  The Authority may waive, refund or remit, wholly or in part, any fee that is paid or is payable to the Authority under any written law and which forms or would form part of the funds and property of the Authority under subsection (1).
 
 [Act 18 of 2014 wef 15/05/2015]
 
 ### Application of moneys
 
-14\. The moneys of the Authority shall be applied only in payment of expenses incurred by it in the discharge of its functions, obligations and liabilities and in making any payment that it is authorised or required to make.
+14\.   The moneys of the Authority shall be applied only in payment of expenses incurred by it in the discharge of its functions, obligations and liabilities and in making any payment that it is authorised or required to make.
 
 ### Bank accounts
 
@@ -436,27 +436,27 @@ FINANCIAL PROVISIONS
 
 16\. 
 
-—(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
+—(1)  [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
+(2)  [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
+(3)  [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(4) A summary of the annual estimates and supplementary estimates adopted by the Authority shall be published in theGazette.
+(4)  A summary of the annual estimates and supplementary estimates adopted by the Authority shall be published in the Gazette.
 
 ### Power of investment
 
-17\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+17\.   The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
 [45/2004]
 
 ### Grants-in-aids
 
-18\. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may, from time to time, make grants-in-aids to the Authority of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
+18\.   For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may, from time to time, make grants-in-aids to the Authority of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
 
 ### Power to borrow
 
-19\. For the discharge of its functions under this Act or any other written law, the Authority may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+19\.   For the discharge of its functions under this Act or any other written law, the Authority may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
 
 (a) mortgage, overdraft or otherwise;
 
@@ -466,11 +466,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-20\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+20\.   As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
 ### Financial year
 
-21\. The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.
+21\.   The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.
 
 [Act 5 of 2018 wef 01/04/2018]
 
@@ -480,7 +480,7 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Authority of property, assets and liabilities
 
-22\.—(1) As from 1st April 2004 —
+22\.—(1)  As from 1st April 2004 —
 
 (a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Registry of Companies and Businesses and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Registry of Companies and Businesses; and
 
@@ -494,7 +494,7 @@ shall, without further assurance, act or deed, be transferred to and shall vest 
 
 ### Transfer of employees
 
-23\.—(1) As from 1st April 2004 —
+23\.—(1)  As from 1st April 2004 —
 
 (a) such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Registry of Companies and Businesses; and
 
@@ -522,7 +522,7 @@ shall be transferred to the service of the Authority on terms no less favourable
 
 ### Existing contracts
 
-25\.—(1) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Government is a party and relating to the Registry of Companies and Businesses or to any person transferred to the service of the Authority under section 23(1)(a) shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
+25\.—(1)  All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Government is a party and relating to the Registry of Companies and Businesses or to any person transferred to the service of the Authority under section 23(1)(a) shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
 
 (2) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Public Accountants Board is a party shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Public Accountants Board.
 
@@ -542,7 +542,7 @@ shall be transferred to the service of the Authority on terms no less favourable
 
 ### Misconduct or neglect of duty by employee before transfer
 
-28\. The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the service of the Government or the Public Accountants Board, as the case may be, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the service of the Government or the Public Accountants Board, as the case may be, and if this Act had not been enacted.
+28\.   The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the service of the Government or the Public Accountants Board, as the case may be, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the service of the Government or the Public Accountants Board, as the case may be, and if this Act had not been enacted.
 
 ## PART VIA
 
@@ -552,7 +552,7 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 ### Interpretation of this Part
 
-28A\. In this Part, unless the context otherwise requires —
+28A\.   In this Part, unless the context otherwise requires —
 
 “Chief Executive” includes an officer of the Authority authorised by the Chief Executive to exercise a power, function or duty of the Chief Executive under this Part;
 
@@ -582,7 +582,7 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 “scheduled Act” means any of the written laws specified in the Second Schedule;
 
-“transaction”, in relation to the Registrar, means —
+“transaction”, in relation to the Registrar, means —
 
 (a) the filing or lodging of any document with the Registrar, or the submission, production, delivery, furnishing or sending of any document to the Registrar, under a scheduled Act;
 
@@ -596,7 +596,7 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 ### Establishment of electronic transaction system
 
-28B\.—(1) The Authority may establish an electronic transaction system —
+28B\.—(1)  The Authority may establish an electronic transaction system —
 
 (a) to enable any person to carry out any transaction with the Registrar;
 
@@ -608,9 +608,9 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 (e) for the purposes of, or connected with, the registration of registered filing agents and registered qualified individuals under this Part.
 
-(2) The information that may be provided under the service referred to in subsection (1)(c) —
+(2)  The information that may be provided under the service referred to in subsection (1)(c) —
 
-(a) may include —
+(a) may include —
 
 (i) copies or extracts of documents filed or lodged with, submitted to, or issued by, the Registrar;
 
@@ -622,7 +622,7 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 (c) is subject to any restriction relating to confidentiality under a scheduled Act.
 
-(3) Where any transaction with the Registrar can be carried out using the electronic transaction system, the Registrar may refuse to process the transaction unless —
+(3)  Where any transaction with the Registrar can be carried out using the electronic transaction system, the Registrar may refuse to process the transaction unless —
 
 (a) the transaction is carried out in accordance with this Part including the requirements for the use of the system specified in subsection (4);
 
@@ -630,7 +630,7 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 (c) the fee or penalty payable in respect of the transaction has been paid.
 
-(4) Subject to this Part and any regulations made under section 28J, the Chief Executive may, from time to time, determine the requirements for the use of the electronic transaction system, which may include —
+(4)  Subject to this Part and any regulations made under section 28J, the Chief Executive may, from time to time, determine the requirements for the use of the electronic transaction system, which may include —
 
 (a) terms and conditions of access to, and use of, the electronic transaction system;
 
@@ -640,13 +640,13 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 (d) modes of payment for transactions.
 
-(5) The fees payable —
+(5)  The fees payable —
 
-(a) in respect of any transaction with the Registrar, or for the issue of any approval, certificate, notice, determination or other document under a scheduled Act, referred to in subsection (1)(a) and (b) shall be determined under the scheduled Act in respect of which the transaction was made or the approval, certificate, notice, determination or other document was issued; and
+(a) in respect of any transaction with the Registrar, or for the issue of any approval, certificate, notice, determination or other document under a scheduled Act, referred to in subsection (1)(a) and (b) shall be determined under the scheduled Act in respect of which the transaction was made or the approval, certificate, notice, determination or other document was issued; and
 
-(b) in respect of any service provided by the Authority referred to in subsection (1)(c) or (d) shall be determined by the Authority.
+(b) in respect of any service provided by the Authority referred to in subsection (1)(c) or (d) shall be determined by the Authority.
 
-(6) The Chief Executive must keep a record, in such form as the Chief Executive may determine, of —
+(6)  The Chief Executive must keep a record, in such form as the Chief Executive may determine, of —
 
 (a) all transactions with the Registrar under the scheduled Acts carried out using the electronic transaction system unless otherwise ordered by an order of the court; and
 
@@ -656,7 +656,7 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 ### Requirement to use electronic transaction system and agents for use
 
-28C\.—(1) A person who wishes to carry out a transaction with the Registrar —
+28C\.—(1)  A person who wishes to carry out a transaction with the Registrar —
 
 (a) must do so using the electronic transaction system if required by the Registrar under the scheduled Act to which the transaction relates; or
 
@@ -666,17 +666,17 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 (3) A registered filing agent may carry out a transaction with the Registrar referred to in subsection (2) only if he acts by or through such individuals as may be prescribed under regulations made under section 28J.
 
-(4) Subsection (2) does not apply to such persons, or to such transactions with the Registrar, as may be prescribed.
+(4)  Subsection (2) does not apply to such persons, or to such transactions with the Registrar, as may be prescribed.
 
 [Act 18 of 2014 wef 15/05/2015]
 
 ### Evidence of transaction on electronic transaction system
 
-28D\.—(1) Notwithstanding any other written law or rule of law —
+28D\.—(1)  Notwithstanding any other written law or rule of law —
 
 (a) a copy of the whole or any part of any original document that is certified by the Registrar to be a true copy of the whole or the relevant part of the original document shall in any proceedings be admissible in evidence as of equal validity with the original document; and
 
-(b) any document prepared by the Registrar that —
+(b) any document prepared by the Registrar that —
 
 (i) consists of information reproduced or extracted from any original document; and
 
@@ -684,19 +684,19 @@ ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED
 
 is, unless evidence to the contrary is adduced, admissible in evidence in place of and to the same extent as the original document.
 
-(2) In this section, “original document” means a document filed or lodged with, submitted to, or issued by, the Registrar using the electronic transaction system.
+(2)  In this section, “original document” means a document filed or lodged with, submitted to, or issued by, the Registrar using the electronic transaction system.
 
 [Act 18 of 2014 wef 15/05/2015]
 
 ### Electronic transaction system malfunction, errors and omissions
 
-28E\.—(1) Notwithstanding any other written law or rule of law, the Registrar may —
+28E\.—(1)  Notwithstanding any other written law or rule of law, the Registrar may —
 
 (a) correct any error or omission in any register kept by the Registrar under a scheduled Act;
 
 (b) correct any error or omission in any document filed or lodged with, or submitted to, the Registrar; and
 
-(c) supply entries or records omitted to be made in any register referred to in paragraph (a),
+(c) supply entries or records omitted to be made in any register referred to in paragraph (a),
 
 if the error or omission has occurred or arisen as a result of any malfunction of the electronic transaction system.
 
@@ -704,7 +704,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (3) When any error or omission has been corrected under subsection (1), the error or omission shall be deemed not to have occurred.
 
-(4) The Authority and the Authority’s officers, employees and agents shall not be liable for any loss or damage, suffered by any person by reason of any error or omission —
+(4)  The Authority and the Authority’s officers, employees and agents shall not be liable for any loss or damage, suffered by any person by reason of any error or omission —
 
 (a) if the error or omission had occurred or arisen as a result of any malfunction in the electronic transaction system; and
 
@@ -714,7 +714,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 ### Registered filing agents
 
-28F\.—(1) An application by a person to be registered as a registered filing agent under this Part, or for the renewal of such registration, shall —
+28F\.—(1)  An application by a person to be registered as a registered filing agent under this Part, or for the renewal of such registration, shall —
 
 (a) contain such information and be made in such manner as the Chief Executive may determine;
 
@@ -722,7 +722,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) be accompanied by such application and registration fees as may be prescribed.
 
-(2) A person shall not be registered as a registered filing agent, or have his registration renewed, unless —
+(2)  A person shall not be registered as a registered filing agent, or have his registration renewed, unless —
 
 (a) the person meets at least one of the following criteria:
 
@@ -734,7 +734,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (b) the person is one of the following:
 
-(i) an individual or a partnership registered as carrying on business under the Business Names Registration Act 2014;
+(i) an individual or a partnership registered as carrying on business under the Business Names Registration Act 2014;
 
 [Act 29 of 2014 wef 03/01/2016]
 
@@ -748,15 +748,15 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (d) if the person is not an individual, the directors, the partners, and the individuals directly or indirectly taking part in or concerned in the management, of that person, have successfully completed such courses and training as may be prescribed.
 
-(3) The Chief Executive may refuse to register or renew the registration of a person as a registered filing agent if —
+(3)  The Chief Executive may refuse to register or renew the registration of a person as a registered filing agent if —
 
-(a) where the applicant is an individual —
+(a) where the applicant is an individual —
 
 (i) the applicant has been convicted (whether in Singapore or elsewhere) of any offence involving fraud or dishonesty punishable with imprisonment for 3 months or more; or
 
 (ii) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(b) where the applicant is not an individual —
+(b) where the applicant is not an individual —
 
 (i) any director, partner or individual directly or indirectly taking part in or concerned in the management of the applicant has been convicted (whether in Singapore or elsewhere) of any offence involving fraud or dishonesty punishable with imprisonment for 3 months or more; or
 
@@ -764,11 +764,11 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) the Chief Executive is otherwise not satisfied that the applicant is a fit and proper person to be so registered, or that any of its directors or partners or any individual directly or indirectly taking part in or concerned in the management of the applicant, is a fit and proper person.
 
-(4) In determining under subsection (3)(c) whether an applicant is a fit and proper person, or whether any of its directors or partners or any individual directly or indirectly taking part in or concerned in the management of the applicant is a fit and proper person, the Chief Executive may consider such factors as may be prescribed.
+(4)  In determining under subsection (3)(c) whether an applicant is a fit and proper person, or whether any of its directors or partners or any individual directly or indirectly taking part in or concerned in the management of the applicant is a fit and proper person, the Chief Executive may consider such factors as may be prescribed.
 
-(5) The Chief Executive shall refuse to register a person as a registered filing agent if —
+(5)  The Chief Executive shall refuse to register a person as a registered filing agent if —
 
-(a) that person’s previous registration as a registered filing agent had been cancelled because of —
+(a) that person’s previous registration as a registered filing agent had been cancelled because of —
 
 (i) a breach of a prescribed term or condition of registration; or
 
@@ -782,7 +782,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (8) The Chief Executive may impose on any registered filing agent such restrictions pertaining to the use of the electronic transaction system as the Chief Executive thinks fit.
 
-(9) Every registered filing agent shall comply with all of the following:
+(9)  Every registered filing agent shall comply with all of the following:
 
 (a) a condition to perform such customer due diligence measures to detect or prevent money laundering and the financing of terrorism as may be prescribed;
 
@@ -792,13 +792,13 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (d) such other terms and conditions of registration as may be prescribed.
 
-(10) Without prejudice to subsections (13) and (14), the Chief Executive may cancel the registration of a registered filing agent —
+(10)  Without prejudice to subsections (13) and (14), the Chief Executive may cancel the registration of a registered filing agent —
 
-(a) if the registered filing agent has ceased to meet —
+(a) if the registered filing agent has ceased to meet —
 
-(i) at least one of the criteria specified under subsection (2)(a) for any period exceeding any grace period permitted under subsection (12); or
+(i) at least one of the criteria specified under subsection (2)(a) for any period exceeding any grace period permitted under subsection (12); or
 
-(ii) at least one of the criteria specified under subsection (2)(b);
+(ii) at least one of the criteria specified under subsection (2)(b);
 
 (b) if there exists any ground on which the Chief Executive would have been entitled to refuse registration or renewal of registration under subsection (3);
 
@@ -810,27 +810,27 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (d) if the registered filing agent applies to the Chief Executive for his registration to be cancelled.
 
-(11) The Chief Executive may refuse to cancel a registered filing agent’s registration under subsection (10)(d) if the Chief Executive suspects that the registered filing agent has breached any of the terms and conditions under subsection (9) and until —
+(11)  The Chief Executive may refuse to cancel a registered filing agent’s registration under subsection (10)(d) if the Chief Executive suspects that the registered filing agent has breached any of the terms and conditions under subsection (9) and until —
 
 (a) the Chief Executive has investigated the suspected breach; and
 
-(b) the Chief Executive —
+(b) the Chief Executive —
 
 (i) has determined that there was no breach; or
 
-(ii) has determined that there was a breach and has either —
+(ii) has determined that there was a breach and has either —
 
 (A) taken action against the registered filing agent under subsection (13) for the breach; or
 
 (B) decided not to take action against the registered filing agent under subsection (13) for the breach.
 
-(12) Where, after registration, a registered filing agent ceases to meet at least one of the criteria specified under subsection (2)(a), the registered filing agent must meet at least one of those criteria within the earlier of the following:
+(12)  Where, after registration, a registered filing agent ceases to meet at least one of the criteria specified under subsection (2)(a), the registered filing agent must meet at least one of those criteria within the earlier of the following:
 
-(a) the 60th day after the date on which the registered filing agent ceased to meet at least one of the criteria under subsection (2)(a);
+(a) the 60th day after the date on which the registered filing agent ceased to meet at least one of the criteria under subsection (2)(a);
 
 (b) the date on which the registered filing agent’s registration under this section expires.
 
-(13) Where a registered filing agent has breached any term or condition under subsection (9), the Chief Executive may —
+(13)  Where a registered filing agent has breached any term or condition under subsection (9), the Chief Executive may —
 
 (a) cancel the registration of the registered filing agent;
 
@@ -842,7 +842,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (e) censure the registered filing agent.
 
-(14) If the registered filing agent fails to pay the financial penalty required by the Chief Executive within the period specified by the Chief Executive under subsection (13)(d), the Chief Executive may —
+(14)  If the registered filing agent fails to pay the financial penalty required by the Chief Executive within the period specified by the Chief Executive under subsection (13)(d), the Chief Executive may —
 
 (a) cancel the registration of the registered filing agent;
 
@@ -850,7 +850,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) restrict the registered filing agent’s use of the electronic transaction system to such extent as the Chief Executive thinks fit.
 
-(15) The Chief Executive shall, before taking any action under subsection (10)(a), (b) or (c), (13) or (14) —
+(15)  The Chief Executive shall, before taking any action under subsection (10)(a), (b) or (c), (13) or (14) —
 
 (a) give, in such manner as the Chief Executive may determine, the registered filing agent concerned notice of the Chief Executive’s intention to do so; and
 
@@ -860,7 +860,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 ### Registered qualified individuals
 
-28G\.—(1) An application to be registered by the Chief Executive as a registered qualified individual, or for the renewal of such registration, shall —
+28G\.—(1)  An application to be registered by the Chief Executive as a registered qualified individual, or for the renewal of such registration, shall —
 
 (a) contain such information and be made in such manner as the Chief Executive may determine;
 
@@ -868,13 +868,13 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) be accompanied by such application and registration fees as may be prescribed.
 
-(2) A person shall not be registered as a registered qualified individual, or have his registration as such renewed, unless —
+(2)  A person shall not be registered as a registered qualified individual, or have his registration as such renewed, unless —
 
 (a) the person is a qualified individual; and
 
 (b) the person has completed such courses and training as may be prescribed.
 
-(3) The Chief Executive may refuse to register or renew the registration of an individual as a registered qualified individual if —
+(3)  The Chief Executive may refuse to register or renew the registration of an individual as a registered qualified individual if —
 
 (a) the individual has been convicted (whether in Singapore or elsewhere) of any offence involving fraud or dishonesty punishable with imprisonment for 3 months or more;
 
@@ -882,11 +882,11 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) the Chief Executive is otherwise not satisfied that the individual is a fit and proper person to be so registered.
 
-(4) In determining whether an individual is a fit and proper person under subsection (3)(c), the Chief Executive may consider such factors as may be prescribed.
+(4)  In determining whether an individual is a fit and proper person under subsection (3)(c), the Chief Executive may consider such factors as may be prescribed.
 
-(5) The Chief Executive shall refuse to register a person as a registered qualified individual if —
+(5)  The Chief Executive shall refuse to register a person as a registered qualified individual if —
 
-(a) that person’s previous registration as a registered qualified individual had been cancelled because of —
+(a) that person’s previous registration as a registered qualified individual had been cancelled because of —
 
 (i) a breach of a prescribed term or condition of registration; or
 
@@ -902,7 +902,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (9) Every registered qualified individual shall comply with such terms and conditions as may be prescribed.
 
-(10) Without prejudice to subsections (12), (13) and (14), the Chief Executive may cancel the registration of a registered qualified individual —
+(10)  Without prejudice to subsections (12), (13) and (14), the Chief Executive may cancel the registration of a registered qualified individual —
 
 (a) if the person ceases to be a qualified individual;
 
@@ -910,21 +910,21 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) if the registered qualified individual applies to the Chief Executive for his registration to be cancelled.
 
-(11) The Chief Executive may refuse to cancel a registered qualified individual’s registration under subsection (10)(c) if the Chief Executive suspects that the registered qualified individual has breached any of the terms and conditions prescribed under subsection (9) and until —
+(11)  The Chief Executive may refuse to cancel a registered qualified individual’s registration under subsection (10)(c) if the Chief Executive suspects that the registered qualified individual has breached any of the terms and conditions prescribed under subsection (9) and until —
 
 (a) the Chief Executive has investigated the suspected breach; and
 
-(b) the Chief Executive —
+(b) the Chief Executive —
 
 (i) has determined that there was no breach; or
 
-(ii) has determined that there was a breach and has either —
+(ii) has determined that there was a breach and has either —
 
 (A) taken action against the registered qualified individual under subsection (12) for the breach; or
 
 (B) decided not to take action against the registered qualified individual under subsection (12) for the breach.
 
-(12) Where a registered qualified individual has breached any term or condition prescribed under subsection (9), the Chief Executive may —
+(12)  Where a registered qualified individual has breached any term or condition prescribed under subsection (9), the Chief Executive may —
 
 (a) cancel the registration of the registered qualified individual;
 
@@ -936,7 +936,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (e) censure the registered qualified individual.
 
-(13) If the registered qualified individual fails to pay the financial penalty required by the Chief Executive within the period specified by the Chief Executive under subsection (12)(d), the Chief Executive may —
+(13)  If the registered qualified individual fails to pay the financial penalty required by the Chief Executive within the period specified by the Chief Executive under subsection (12)(d), the Chief Executive may —
 
 (a) cancel the registration of the registered qualified individual;
 
@@ -944,13 +944,13 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 (c) restrict the registered qualified individual’s use of the electronic transaction system to such extent as the Chief Executive thinks fit.
 
-(14) Without prejudice to the generality of subsections (10), (12) and (13), the Chief Executive may cancel or suspend the registration of the registered qualified individual if the Chief Executive is satisfied that the registered qualified individual has, in his capacity as a registered qualified individual, made any declaration, statement or undertaking under any scheduled Act —
+(14)  Without prejudice to the generality of subsections (10), (12) and (13), the Chief Executive may cancel or suspend the registration of the registered qualified individual if the Chief Executive is satisfied that the registered qualified individual has, in his capacity as a registered qualified individual, made any declaration, statement or undertaking under any scheduled Act —
 
 (a) that is false or misleading; or
 
 (b) that the registered qualified individual was not authorised to make.
 
-(15) The Chief Executive shall, before taking any action under subsection (10)(a) or (b), (12), (13) or (14) —
+(15)  The Chief Executive shall, before taking any action under subsection (10)(a) or (b), (12), (13) or (14) —
 
 (a) give, in such manner as the Chief Executive may determine, the registered qualified individual concerned notice of the Chief Executive’s intention to do so; and
 
@@ -960,7 +960,7 @@ if the error or omission has occurred or arisen as a result of any malfunction o
 
 ### Appeal to Minister
 
-28H\.—(1) Where the Chief Executive has —
+28H\.—(1)  Where the Chief Executive has —
 
 (a) refused to register an applicant as a registered filing agent, or to renew his registration, under section 28F; or
 
@@ -970,7 +970,7 @@ the Chief Executive must give the applicant written notice of the decision and t
 
 (2) Where the Chief Executive has decided to take any action with respect to a registered filing agent under section 28F(10), (13) or (14), or with respect to a registered qualified individual under section 28G(10), (12), (13) or (14), the Chief Executive must give the registered filing agent or the registered qualified individual, as the case may be, written notice of the decision.
 
-(3) Any —
+(3)  Any —
 
 (a) registered filing agent who is aggrieved by any action taken by the Chief Executive under section 28F(10), (13) or (14); or
 
@@ -982,23 +982,23 @@ may, within 30 days after being notified of the decision under subsection (2), a
 
 (5) The decision of the Minister in any appeal under this section shall be final.
 
-(6) For the purposes of this section and section 28I, a reference to the Minister shall include a reference to such Minister of State for his Ministry as is designated by the Minister to hear an appeal under this section in place of the Minister.
+(6)  For the purposes of this section and section 28I, a reference to the Minister shall include a reference to such Minister of State for his Ministry as is designated by the Minister to hear an appeal under this section in place of the Minister.
 
 [Act 18 of 2014 wef 15/05/2015]
 
 ### Interest for non‑payment and recovery of financial penalty
 
-28I\.—(1) A registered filing agent or a registered qualified individual who fails to pay any amount of a financial penalty imposed by the Chief Executive under section 28F or 28G (as the case may be), or by the Minister on an appeal under section 28H —
+28I\.—(1)  A registered filing agent or a registered qualified individual who fails to pay any amount of a financial penalty imposed by the Chief Executive under section 28F or 28G (as the case may be), or by the Minister on an appeal under section 28H —
 
-(a) in the case of a registered filing agent —
+(a) in the case of a registered filing agent —
 
-(i) within the period specified for payment by the Chief Executive under section 28F(13)(d); or
+(i) within the period specified for payment by the Chief Executive under section 28F(13)(d); or
 
 (ii) where there is an appeal to the Minister under section 28H, within the time specified for payment by the Minister; and
 
-(b) in the case of a registered qualified individual —
+(b) in the case of a registered qualified individual —
 
-(i) within the period specified for payment by the Chief Executive under section 28G(12)(d); or
+(i) within the period specified for payment by the Chief Executive under section 28G(12)(d); or
 
 (ii) where there is an appeal to the Minister under section 28H, within the time specified for payment by the Minister,
 
@@ -1006,15 +1006,15 @@ shall be liable to pay interest at the same rate as for a judgment debt on the u
 
 (2) The liability of a registered filing agent or a registered qualified individual to pay a financial penalty and any interest on the financial penalty under this Part is not affected by his ceasing to be registered as a registered filing agent or registered qualified individual, as the case may be.
 
-(3) In any proceeding for the recovery of any financial penalty under this Part —
+(3)  In any proceeding for the recovery of any financial penalty under this Part —
 
-(a) a certificate purporting to be under the hand of the Chief Executive certifying the amount of the financial penalty that is imposed, and the period specified for payment, by the Chief Executive under section 28F(13)(d) or 28G(12)(d); and
+(a) a certificate purporting to be under the hand of the Chief Executive certifying the amount of the financial penalty that is imposed, and the period specified for payment, by the Chief Executive under section 28F(13)(d) or 28G(12)(d); and
 
 (b) where there is an appeal to the Minister under section 28H, a certificate purporting to be under the hand of the Minister certifying the amount of financial penalty that is imposed, and the period specified for payment, by the Minister on an appeal under section 28H(4),
 
 shall be prima facie evidence of the facts stated therein.
 
-(4) The Minister, or an officer authorised by the Minister in that behalf, may waive, remit or refund in whole or in part any financial penalty imposed or interest on the penalty.
+(4)  The Minister, or an officer authorised by the Minister in that behalf, may waive, remit or refund in whole or in part any financial penalty imposed or interest on the penalty.
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -1022,7 +1022,7 @@ shall be prima facie evidence of the facts stated therein.
 
 28J\.—(1) The Minister may make such regulations as are necessary or expedient for carrying out the purposes of this Part.
 
-(2) Without prejudice to the generality of subsection (1), such regulations may —
+(2)  Without prejudice to the generality of subsection (1), such regulations may —
 
 (a) prescribe the individuals by or through whom a registered filing agent who carries out a transaction with the Registrar must act;
 
@@ -1030,9 +1030,9 @@ shall be prima facie evidence of the facts stated therein.
 
 (c) prescribe the criteria for qualified individuals;
 
-(d) prescribe the terms and conditions referred to in sections 28F(9) and 28G(9) including —
+(d) prescribe the terms and conditions referred to in sections 28F(9) and 28G(9) including —
 
-(i) the duties of registered filing agents and registered qualified individuals to —
+(i) the duties of registered filing agents and registered qualified individuals to —
 
 (A) ensure proper access and use of the electronic transaction system and (where applicable) supervise agents and employees of the registered filing agents for such purposes;
 
@@ -1052,7 +1052,7 @@ shall be prima facie evidence of the facts stated therein.
 
 (ii) any determination of the Minister under section 28H;
 
-(g) prescribe —
+(g) prescribe —
 
 (i) the fees payable for the purposes of this Part and not expressly provided for in section 28B(5);
 
@@ -1072,15 +1072,15 @@ shall be prima facie evidence of the facts stated therein.
 
 MISCELLANEOUS
 
-29\. [Repealed by Act 5 of 2018 wef 01/04/2018]
+29\.   [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Symbol or representation of Authority
 
-30\.—(1) The Authority shall have the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
+30\.—(1)  The Authority shall have the exclusive right to the use of such  symbol or representation as the Authority may select or devise and thereafter display or exhibit such  symbol or representation in connection with its activities or affairs.
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(2) Any person who uses a symbol or representation identical with that of the Authority, or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+(2)  Any person who uses a  symbol or representation identical with that of the Authority, or which so resembles the Authority’s  symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -1088,25 +1088,25 @@ MISCELLANEOUS
 
 30A\.—(1) The Authority may conduct its operations under its full name or under the acronym ACRA.
 
-(2) A person other than the Authority shall not use the name of the Authority or the acronym ACRA, or a name or acronym which so resembles the name of the Authority or the acronym ACRA, as is likely to deceive or cause confusion —
+(2)  A person other than the Authority shall not use the name of the Authority or the acronym ACRA, or a name or acronym which so resembles the name of the Authority or the acronym ACRA, as is likely to deceive or cause confusion —
 
 (a) in connection with a business, trade, profession or occupation;
 
 (b) as the name, or as part of the name, of any firm, body corporate or institution; or
 
-(c) in relation to —
+(c) in relation to —
 
 (i) services or products; or
 
 (ii) the promotion, by any means, of the supply of services or products.
 
-(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+(3)  Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 [Act 18 of 2014 wef 15/05/2015]
 
 ### False statements
 
-30B\. Any person who, in relation to any application under this Act —
+30B\.   Any person who, in relation to any application under this Act —
 
 (a) makes any false statement which he knows to be false or does not believe to be true or which he makes recklessly; or
 
@@ -1118,11 +1118,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Powers of enforcement
 
-31\.—(1) In addition to the powers conferred on him by this Act or any other written law, an officer or employee of the Authority may, in relation to any offence under this Act or any written law specified in the Second Schedule —
+31\.—(1)  In addition to the powers conferred on him by this Act or any other written law, an officer or employee of the Authority may, in relation to any offence under this Act or any written law specified in the Second Schedule —
 
 (a) require any person whom he reasonably believes to have committed that offence to furnish evidence of the person’s identity;
 
-(b) require any person to furnish any information or produce any book, document or copy thereof in the possession of that person, and may, without fee or reward, inspect, make copies of or take extracts from such book or document;
+(b) require any person to furnish any information or produce any book, document or copy thereof in the possession of that person, and may, without fee or reward, inspect, make copies of or take extracts from such book or document; 
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -1144,11 +1144,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(1A) The person referred to in subsection (1)(d) shall be bound to state truly what he knows of the facts and circumstances with which he is acquainted except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
+(1A)  The person referred to in subsection (1)(d) shall be bound to state truly what he knows of the facts and circumstances with which he is acquainted except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(1B) A statement made by the person referred to in subsection (1A) shall —
+(1B)  A statement made by the person referred to in subsection (1A) shall —
 
 (a) be reduced to writing;
 
@@ -1160,19 +1160,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(1C) An officer or employee of the Authority when exercising any power under this Act shall declare his office and shall produce to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority.
+(1C)  An officer or employee of the Authority when exercising any power under this Act shall declare his office and shall produce to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority.
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(1D) An officer or employee of the Authority may also, in relation to an investigation into a breach of a term or condition of registration of a registered filing agent or a registered qualified individual under Part VIA, exercise the powers under subsection (1) in the same manner as if the breach of the term or condition of registration were an offence under this Act.
+(1D)  An officer or employee of the Authority may also, in relation to an investigation into a breach of a term or condition of registration of a registered filing agent or a registered qualified individual under Part VIA, exercise the powers under subsection (1) in the same manner as if the breach of the term or condition of registration were an offence under this Act.
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(2) Any person who —
+(2)  Any person who —
 
 (a) refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Authority in the discharge of the duties by such officer or employee of the Authority under this Act or that written law;
 
-(b) wilfully mis-states or without lawful excuse refuses to give any information or produce any book, document or copy thereof required of him by an officer or employee of the Authority under subsection (1) or (1D); or
+(b) wilfully mis-states or without lawful excuse refuses to give any information or produce any book, document or copy thereof required of him by an officer or employee of the Authority under subsection (1) or (1D); or
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -1194,21 +1194,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-33\.—(1) Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
+33\.—(1)  Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
 
 [15/2010 wef 02/01/2011]
 
-(2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
+(2)  Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
 
 (a) appear in any civil proceedings involving the Authority or any Registrar in the performance of his functions or duties under any written law specified in the Second Schedule; and
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Authority or any Registrar.
 
-(3) In this section, “Registrar” means —
+(3)  In this section, “Registrar” means —
 
 (a) the Registrar of Public Accountants and any Deputy or Assistant Registrar of Public Accountants appointed under the Accountants Act (Cap. 2);
 
-(b) the Registrar of Business Names and any Deputy Registrar or Assistant Registrar of Business Names appointed under the Business Names Registration Act 2014;
+(b) the Registrar of Business Names and any Deputy Registrar or Assistant Registrar of Business Names appointed under the Business Names Registration Act 2014;
 
 [Act 29 of 2014 wef 03/01/2016]
 
@@ -1216,7 +1216,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [4/2010 wef 05/02/2010]
 
-(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005); 
 
 [4/2010 wef 05/02/2010]
 
@@ -1234,7 +1234,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Preservation of secrecy
 
-34\.—(1) No person who is or has been —
+34\.—(1)  No person who is or has been —
 
 (a) a member, an officer, an employee or an agent of the Authority; or
 
@@ -1272,7 +1272,7 @@ shall disclose any information relating to the affairs of the Authority or of an
 
 [Act 18 of 2014 wef 15/05/2015]
 
-(2) No person who is or has been —
+(2)  No person who is or has been —
 
 (a) a member, an officer, an employee or an agent of the Authority; or
 
@@ -1288,11 +1288,11 @@ shall, for his own personal benefit or for the personal benefit of any other per
 
 ### Jurisdiction of District Court
 
-35\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+35\.   Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Composition of offences
 
-36\.—(1) The Chief Executive or any officer of the Authority who is authorised by the Chief Executive may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
+36\.—(1)  The Chief Executive or any officer of the Authority who is authorised by the Chief Executive may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence;
 
@@ -1304,7 +1304,7 @@ shall, for his own personal benefit or for the personal benefit of any other per
 
 ### Amendment of Schedules
 
-37\. The Minister may, by order in theGazette, amend the Second and Fourth Schedules.
+37\.   The Minister may, by order in the Gazette, amend the Second and Fourth Schedules.
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -1312,13 +1312,13 @@ shall, for his own personal benefit or for the personal benefit of any other per
 
 38\.—(1) The Authority may, with the approval of the Minister, make rules for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make rules for or with respect to all or any of the following matters:
+(2)  Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make rules for or with respect to all or any of the following matters:
 
 (a) the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Authority;
 
 (b) the establishment of funds for the payment of gratuities and other benefits to officers and employees of the Authority;
 
-(c) the fees to be charged in respect of anything done or any service rendered by the Authority under or by virtue of this Act, other than Part VIA, or any other written law; and
+(c) the fees to be charged in respect of anything done or any service rendered by the Authority under or by virtue of this Act, other than Part VIA, or any other written law; and
 
 [Act 18 of 2014 wef 15/05/2015]
 
@@ -1332,31 +1332,31 @@ Constitution and proceedings of Authority
 
 Terms of office of Chairman and members
 
-1\. The Chairman and other members shall hold office for such period and on such terms and conditions as the Minister may determine, and shall be eligible for re-appointment.
+1. The Chairman and other members shall hold office for such period and on such terms and conditions as the Minister may determine, and shall be eligible for re-appointment.
 
 Role of Deputy Chairman
 
-2\. Where the Minister has appointed a Deputy Chairman under section 5(3)(a), the Deputy Chairman so appointed may, subject to such direction as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
+2\.  Where the Minister has appointed a Deputy Chairman under section 5(3)(a), the Deputy Chairman so appointed may, subject to such direction as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
 
 Temporary Chairman
 
-3\. The Minister may appoint any person to be a temporary Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman.
+3. The Minister may appoint any person to be a temporary Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman.
 
 Revocation of appointment
 
-4\. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman (if any) or any member if he considers such revocation necessary in the interest of the effective and economical performance of the functions of the Authority under this Act or in the public interest.
+4. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman (if any) or any member if he considers such revocation necessary in the interest of the effective and economical performance of the functions of the Authority under this Act or in the public interest.
 
 Resignation
 
-5\. A member may resign from his office at any time by giving not less than one month’s notice in writing to the Minister.
+5. A member may resign from his office at any time by giving not less than one month’s notice in writing to the Minister.
 
 Chairman may delegate functions
 
-6\. The Chairman may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
+6. The Chairman may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
 
 Vacation of office
 
-7. The office of a member shall become vacant —
+7.  The office of a member shall become vacant —
 
 (a) on his death;
 
@@ -1372,11 +1372,11 @@ Vacation of office
 
 Filling of vacancies
 
-8\. If a vacancy occurs in the membership of the Authority, the Minister may, subject to paragraphs 1 and 9, appoint any person to fill the vacancy, and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
+8. If a vacancy occurs in the membership of the Authority, the Minister may, subject to paragraphs 1 and 9, appoint any person to fill the vacancy, and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
 
 Disqualification from membership
 
-9. No person shall be appointed or shall continue to hold office as a member if he —
+9.  No person shall be appointed or shall continue to hold office as a member if he —
 
 (a) is incapacitated by physical or mental illness;
 
@@ -1392,15 +1392,15 @@ Disqualification from membership
 
 Salaries, fees and allowances payable to members of Authority
 
-11\. There shall be paid to the members of the Authority, out of the funds of the Authority, such salaries, fees and allowances as the Minister may from time to time determine.
+11. There shall be paid to the members of the Authority, out of the funds of the Authority, such salaries, fees and allowances as the Minister may from time to time determine.
 
 Meetings and proceedings of Authority
 
-12.—(1) The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
+12.—(1)  The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
 (2) At every meeting of the Authority, one half of the number of members shall constitute a quorum.
 
-(3) The Chairman shall preside at all meetings of the Authority, but if the Chairman is absent from a meeting —
+(3)  The Chairman shall preside at all meetings of the Authority, but if the Chairman is absent from a meeting —
 
 (a) the Deputy Chairman; or
 
@@ -1414,7 +1414,7 @@ shall preside at that meeting.
 
 (6) The validity of any proceedings of the Authority shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
 
-(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+(7)  Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
 
 [Act 5 of 2018 wef 01/04/2018]
 
@@ -1424,23 +1424,23 @@ Sections 6(1), 31(1), 33(1) and (2), 34(1) and (5) and 37
 
 Written laws administered and enforced by Authority
 
-1\. Accountants Act (Cap. 2).
+1. Accountants Act (Cap. 2).
 
-2. Business Names Registration Act 2014.
+2.  Business Names Registration Act 2014.
 
 [Act 29 of 2014 wef 03/01/2016]
 
-3\. Companies Act (Cap. 50).
+3. Companies Act (Cap. 50).
 
 4. [Deleted by Act 11/2005 wef 01/02/2006]
 
-5\. Limited Liability Partnerships Act (Act 5 of 2005).
+5. Limited Liability Partnerships Act (Act 5 of 2005).
 
-6. Limited Partnerships Act 2008 (Act 37 of 2008).
+6.  Limited Partnerships Act 2008 (Act 37 of 2008).
 
 [S 253/2009 wef 04/05/2009]
 
-7. All Parts of the Variable Capital Companies Act 2018, other than Part 7.
+7.  All Parts of the Variable Capital Companies Act 2018, other than Part 7.
 
 [Act 44 of 2018 wef 14/01/2020]
 
@@ -1470,70 +1470,322 @@ Accounting and Corporate Regulatory Authority Act
 
 This Legislative History is provided for the convenience of users of the Accounting and Corporate Regulatory Authority Act. It is not part of the Act.
 
-||||
-|:-|:-|:-|
-|1.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
-||Date of First Reading|5 January 2004|
-|||(Bill No. 1/2004 published on 6 January 2004)|
-||Date of Second and Third Readings|6 February 2004|
-||Date of commencement|1 April 2004|
-|2.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
-||(Consequential amendments made by)||
-||Date of First Reading|21 September 2004|
-|||(Bill No. 43/2004 published on 22 September 2004)|
-||Date of Second and Third Readings|19 October 2004|
-||Date of commencement|15 December 2004|
-|3.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
-||(Consequential amendments made by)||
-||Date of First Reading|19 October 2004|
-|||(Bill No. 64/2004 published on 20 October 2004)|
-||Date of Second and Third Readings|25 January 2005|
-||Date of commencement|11 April 2005|
-|4.|**2005 Revised Edition—Accounting and Corporate Regulatory Authority Act**|
-||Date of operation|31 July 2005|
-|5.|**Act 11 of 2005—Trust Companies Act 2005**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|25 January 2005|
-|||(Bill No. 1/2005 published on 26 January 2005)|
-||Date of Second and Third Readings|18 February 2005|
-||Date of commencement|1 February 2006|
-|6.|**G. N. No. S 253/2009—Accounting and Corporate Regulatory Authority Act (Amendment of Second Schedule) Order 2009**|
-||Date of commencement|4 May 2009|
-|7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
-||Date of First Reading|23 November 2009|
-|||(Bill No. 26/2009 published on 23 November 2009)|
-||Date of Second and Third Readings|12 January 2010|
-||Date of commencement|5 February 2010|
-|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010 published on 26 April 2010)|
-||Date of Second and Third Readings|19 May 2010|
-||Date of commencement|2 January 2011|
-|9.|**Act 5 of 2013—Singapore Accountancy Commission Act 2013**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|15 November 2012|
-|||(Bill No. 40/2012 published on 15 November 2012)|
-||Date of Second and Third Readings|15 January 2013|
-||Date of commencement|1 April 2013|
-|10.|**Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014**|
-||Date of First Reading|14 February 2014 (Bill No. 8/2014 published on 17 February 2014)|
-||Date of Second and Third Readings|14 April 2014|
-||Date of commencement|15 May 2015|
-|11.|**Act 29 of 2014—Business Names Registration Act 2014**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|8 September 2014|
-|||(Bill No. 26/2014)|
-||Date of Second and Third Readings|8 October 2014|
-||Date of commencement|3 January 2016|
-|12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
-||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
-||Date of Second and Third Readings|8 January 2018|
-||Date of commencement|1 April 2018|
-|13.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
-||Date of First Reading|10 September 2018 (Bill No. 40/2018 published on 10 September 2018)|
-||Date of Second and Third Readings|1 October 2018|
-||Date of commencement|14 January 2020|
+ 
+
+1.
+
+Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004
+
+Date of First Reading
+
+:
+
+5 January 2004
+
+(Bill No. 1/2004 published on 6 January 2004)
+
+Date of Second and Third Readings
+
+:
+
+6 February 2004
+
+Date of commencement
+
+:
+
+1 April 2004
+
+ 
+
+2.
+
+Act 45 of 2004—Trustees (Amendment) Act 2004
+
+(Consequential amendments made by)
+
+Date of First Reading
+
+:
+
+21 September 2004
+
+(Bill No. 43/2004 published on 22 September 2004)
+
+Date of Second and Third Readings
+
+:
+
+19 October 2004
+
+Date of commencement
+
+:
+
+15 December 2004
+
+ 
+
+3.
+
+Act 5 of 2005—Limited Liability Partnerships Act 2005
+
+(Consequential amendments made by)
+
+Date of First Reading
+
+:
+
+19 October 2004
+
+(Bill No. 64/2004 published on 20 October 2004)
+
+Date of Second and Third Readings
+
+:
+
+25 January 2005
+
+Date of commencement
+
+:
+
+11 April 2005
+
+ 
+
+4.
+
+2005 Revised Edition—Accounting and Corporate Regulatory Authority Act
+
+Date of operation
+
+:
+
+31 July 2005
+
+ 
+
+5.
+
+Act 11 of 2005—Trust Companies Act 2005
+
+(Consequential amendments made to Act by)
+
+Date of First Reading
+
+:
+
+25 January 2005
+
+(Bill No. 1/2005 published on 26 January 2005)
+
+Date of Second and Third Readings
+
+:
+
+18 February 2005
+
+Date of commencement
+
+:
+
+1 February 2006
+
+ 
+
+6.
+
+G. N. No. S 253/2009—Accounting and Corporate Regulatory Authority Act (Amendment of Second Schedule) Order 2009
+
+Date of commencement
+
+:
+
+4 May 2009
+
+ 
+
+7.
+
+Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010
+
+Date of First Reading
+
+:
+
+23 November 2009
+
+(Bill No. 26/2009 published on 23 November 2009)
+
+Date of Second and Third Readings
+
+:
+
+12 January 2010
+
+Date of commencement
+
+:
+
+5 February 2010
+
+ 
+
+8.
+
+Act 15 of 2010—Criminal Procedure Code 2010
+
+(Consequential amendments made to Act by)
+
+Date of First Reading
+
+:
+
+26 April 2010
+
+(Bill No. 11/2010 published on 26 April 2010)
+
+Date of Second and Third Readings
+
+:
+
+19 May 2010
+
+Date of commencement
+
+:
+
+2 January 2011
+
+ 
+
+9.
+
+Act 5 of 2013—Singapore Accountancy Commission Act 2013
+
+(Consequential amendments made to Act by)
+
+Date of First Reading
+
+:
+
+15 November 2012
+
+(Bill No. 40/2012 published on 15 November 2012)
+
+Date of Second and Third Readings
+
+:
+
+15 January 2013
+
+Date of commencement
+
+:
+
+1 April 2013
+
+ 
+
+10.
+
+Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014
+
+Date of First Reading
+
+:
+
+14 February 2014 (Bill No. 8/2014 published on 17 February 2014)
+
+Date of Second and Third Readings
+
+:
+
+14 April 2014
+
+Date of commencement
+
+:
+
+15 May 2015
+
+ 
+
+11.
+
+Act 29 of 2014—Business Names Registration Act 2014
+
+(Consequential amendments made to Act by)
+
+Date of First Reading
+
+:
+
+8 September 2014
+
+(Bill No. 26/2014)
+
+Date of Second and Third Readings
+
+:
+
+8 October 2014
+
+Date of commencement
+
+:
+
+3 January 2016
+
+ 
+
+12.
+
+Act 5 of 2018—Public Sector (Governance) Act 2018
+
+Date of First Reading
+
+:
+
+6 November 2017 (Bill No. 45/2017 published on 6 November 2017)
+
+Date of Second and Third Readings
+
+:
+
+8 January 2018
+
+Date of commencement
+
+:
+
+1 April 2018
+
+ 
+
+13.
+
+Act 44 of 2018—Variable Capital Companies Act 2018
+
+Date of First Reading
+
+:
+
+10 September 2018 (Bill No. 40/2018 published on 10 September 2018)
+
+Date of Second and Third Readings
+
+:
+
+1 October 2018
+
+Date of commencement
+
+:
+
+14 January 2020
+
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
@@ -1544,11 +1796,11 @@ The following provisions in the Accounting and Corporate Regulatory Authority Ac
 
 This Comparative Table is provided for the convenience of users. It is not part of the Accounting and Corporate Regulatory Authority Act.
 
-2005 Ed\. 
+2005 Ed.
 
-Act 3 of 2004 
+Act 3 of 2004
 
 Omitted
 
-39 
+39
 
