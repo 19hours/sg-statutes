@@ -48,7 +48,13 @@ An Act to apportion rents under State leases and grants.
 
 2\. In this Act, unless the context otherwise requires —
 
-“Collector” means a Collector of Land Revenue;
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
+
+“Collector” has the same meaning as in the Land Revenue Collection Act (Cap.155);
+
+[17/2001 wef 01/06/2001]
 
 “competent authority” means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the grant of subdivision permission;
 
@@ -94,7 +100,9 @@ An Act to apportion rents under State leases and grants.
 
 ### Mode of service of notice where not personal
 
-5\. If the Collector is unable to find any person upon whom service ought to be effected, he may serve the notice upon that person by posting it on the land and at the Land Office, and such posting shall be deemed to be good service.
+5\. If the Collector is unable to find any person upon whom service ought to be effected, he may serve the notice upon that person by posting it on the land and at the office of the Authority, and such posting shall be deemed to be good service.
+
+[17/2001 wef 01/06/2001]
 
 ### Objection to apportionment
 
@@ -120,7 +128,9 @@ An Act to apportion rents under State leases and grants.
 
 [9/75]
 
-(5) Such service may be effected by posting on the land and at the Land Office.
+(5) Such service may be effected by posting on the land and at the office of the Authority.
+
+[17/2001 wef 01/06/2001]
 
 [9/75]
 
@@ -158,7 +168,7 @@ Apportionment of Rents Act
 
 (CHAPTER 9)
 
-This Legislative History is provided for the convenience of users of the Apportionment of Rents Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Apportionment of Rents Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -206,3 +216,9 @@ This Legislative History is provided for the convenience of users of the Apporti
 ||Date of commencement|1 April 1998|
 |13.|**1998 Revised Edition—Apportionment of Rents Act**|
 ||Date of operation|15 December 1998|
+|14.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
