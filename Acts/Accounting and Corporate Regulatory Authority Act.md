@@ -1474,19 +1474,19 @@ This Legislative History is provided for the convenience of users of the Account
 |:-|:-|:-|
 |1.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
 ||Date of First Reading|5 January 2004|
-(Bill No. 1/2004 published on 6 January 2004)|
+|||(Bill No. 1/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
 |2.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|21 September 2004|
-(Bill No. 43/2004 published on 22 September 2004)|
+|||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |3.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|19 October 2004|
-(Bill No. 64/2004 published on 20 October 2004)|
+|||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
 |4.|**2005 Revised Edition—Accounting and Corporate Regulatory Authority Act**|
@@ -1494,26 +1494,26 @@ This Legislative History is provided for the convenience of users of the Account
 |5.|**Act 11 of 2005—Trust Companies Act 2005**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 January 2005|
-(Bill No. 1/2005 published on 26 January 2005)|
+|||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
 |6.|**G. N. No. S 253/2009—Accounting and Corporate Regulatory Authority Act (Amendment of Second Schedule) Order 2009**|
 ||Date of commencement|4 May 2009|
 |7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
 ||Date of First Reading|23 November 2009|
-(Bill No. 26/2009 published on 23 November 2009)|
+|||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|5 February 2010|
 |8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
-(Bill No. 11/2010 published on 26 April 2010)|
+|||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |9.|**Act 5 of 2013—Singapore Accountancy Commission Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 November 2012|
-(Bill No. 40/2012 published on 15 November 2012)|
+|||(Bill No. 40/2012 published on 15 November 2012)|
 ||Date of Second and Third Readings|15 January 2013|
 ||Date of commencement|1 April 2013|
 |10.|**Act 18 of 2014—Accounting and Corporate Regulatory Authority (Amendment) Act 2014**|
@@ -1523,7 +1523,7 @@ This Legislative History is provided for the convenience of users of the Account
 |11.|**Act 29 of 2014—Business Names Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
-(Bill No. 26/2014)|
+|||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
 |12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
