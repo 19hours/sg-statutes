@@ -2212,8 +2212,6 @@ Accountants Act
 
 (CHAPTER 2)
 
-&nbsp
-
 This Legislative History is provided for the convenience of users of the Accountants Act. It is not part of the Act.
 
 ||||
