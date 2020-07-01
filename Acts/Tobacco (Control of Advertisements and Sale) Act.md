@@ -48,9 +48,9 @@
 
 - [16 Prohibition of imitation tobacco products](#Prohibition-of-imitation-tobacco-products)
 
-- [17 Health warnings and labelling](#Health-warnings-and-labelling)
+- [17 Appearance of tobacco products, packaging and labelling](#Appearance-of-tobacco-products-packaging-and-labelling)
 
-- [17A Prohibition of false or misleading packaging and labelling](#Prohibition-of-false-or-misleading-packaging-and-labelling)
+- [17A (Repealed)](#Repealed)
 
 - [18 Licence required for dealing with tobacco products](#Licence-required-for-dealing-with-tobacco-products)
 
@@ -95,6 +95,10 @@
 - [36 Service of summons, notices, etc.](#Service-of-summons-notices-etc)
 
 - [37 Regulations](#Regulations)
+
+- [38 Operation of Act not to affect registrability or registration of trade marks](#Operation-of-Act-not-to-affect-registrability-or-registration-of-trade-marks)
+
+- [39 Operation of Act not to affect registrability or registration of designs](#Operation-of-Act-not-to-affect-registrability-or-registration-of-designs)
 
 [**Legislative History**](#Legislative-History)
 
@@ -797,43 +801,51 @@ any item mentioned in subsection (1) or (2).
 
 [Act 46 of 2017 wef 01/02/2018]
 
-### Health warnings and labelling
+### Appearance of tobacco products, packaging and labelling
 
-17\.—(1) The Minister may by regulations impose requirements for securing that such tobacco products, and such of their packaging, as may be specified in those regulations be marked with, labelled or accompanied by any warning relating to health, information or description as may be prescribed and control or prohibit the supply of tobacco products with respect to which such requirements are not complied with.
+17\.—(1) A person must not —
 
-[17/2010]
+(a) import into Singapore; or
 
-(2) Any person who contravenes the requirements imposed under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(b) distribute, sell, offer for sale or possess for sale in Singapore,
 
-### Prohibition of false or misleading packaging and labelling
+a tobacco product which, or the packaging or labelling of which, does not comply with subsection (3).
 
-\*17A\.—(1) Subject to subsection (3), a person must not import into Singapore, or distribute, sell or offer for sale in Singapore, any tobacco product, the packaging or labelling of which promotes any tobacco product by any means that is false, misleading, deceptive or likely to create an erroneous impression about the characteristics, health effects, hazards or emissions of the tobacco product.
+(2) However, subsection (1)(a) does not apply to the import of tobacco products into Singapore solely for —
 
-[17/2010]
+(a) the re-export of the tobacco products from Singapore —
 
-[Act 9 of 2016 wef 01/08/2016]
+(i) whether or not on the same conveyance on which the tobacco products were brought into Singapore; and
 
-(2) For the purposes of this section, any tobacco product whose packaging or labelling includes or contains —
+(ii) whether or not the tobacco products are landed and kept in any place in Singapore before they are taken out of Singapore; or
 
-(a) any term, descriptor or trade mark, or any figurative or other sign, that directly or indirectly creates the false impression that a particular tobacco product is less harmful than other tobacco products; or
+(b) the repackaging or relabelling of the tobacco products into packaging or with labelling that complies with subsection (3).
 
-(b) such term as the Minister may by regulations prescribe, whether or not the term is part of a descriptor or trade mark, or any figurative or other sign,
+(3) A tobacco product, and the packaging or labelling of any tobacco product —
 
-shall be deemed to be a tobacco product that a person must not import into Singapore, or distribute, sell or offer for sale in Singapore, under subsection (1).
+(a) must comply with every requirement prescribed in relation to the tobacco product or its packaging or labelling (as the case may be), including any requirement as to size, appearance, design, health warnings and other information to be stated; and
 
-[17/2010]
+(b) despite any written law or rule of law, must not bear any trade mark, term, descriptor, figurative or other sign, feature, scent or sound —
 
-[Act 9 of 2016 wef 01/08/2016]
+(i) that is prescribed as prohibited in relation to the tobacco product or its packaging or labelling; or
 
-(3) Subsection (1) shall not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
+(ii) that promotes the tobacco product by any means that is false, misleading, deceptive or likely to create an erroneous impression about the characteristics, health effects, hazards or emissions of the tobacco product, including the misleading impression that the tobacco product is less harmful than other tobacco products.
 
-[17/2010]
+(4) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both, unless paragraph (b) applies; or
 
-[17/2010]
+(b) if the person has any prior qualifying conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-\*Section 17A came into operation on 1st March 2013 (S 418/2012).
+(5) In subsection (4), “qualifying conviction” means —
+
+(a) a conviction for an offence under subsection (4); or
+
+(b) a conviction for an offence under section 17(2) or 17A(4) as in force immediately before the date of commencement of section 3 of the Tobacco (Control of Advertisements and Sale) (Amendment) Act 2019.
+
+[Act 9 of 2019 wef 01/07/2020]
+
+17A\. [Deleted by Act 9 of 2019 wef 01/07/2020]
 
 ### Licence required for dealing with tobacco products
 
@@ -1313,6 +1325,32 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
+### Operation of Act not to affect registrability or registration of trade marks
+
+38\. Nothing in, or done in accordance with, this Act or any regulations made for the purpose of section 17 —
+
+(a) prevents an applicant for registration of a trade mark from stating, for the purpose of section 5(2)(e)(ii) of the Trade Marks Act, that the applicant has a bona fide intention to use the trade mark in the course of trade, by the applicant or with the applicant’s consent, in relation to any goods or services in respect of which the applicant seeks to register the trade mark;
+
+(b) prevents the registration of a trade mark under the Trade Marks Act;
+
+(c) prevents a trade mark mentioned in paragraph (a) of the definition of “earlier trade mark” in section 2(1) of the Trade Marks Act from being taken into account, for the purpose of section 8(11) of that Act, in determining the registrability of a later mark; or
+
+(d) is a ground to revoke the registration of a trade mark under section 22 of the Trade Marks Act, or to declare the registration of a trade mark invalid under section 23 of that Act.
+
+[Act 9 of 2019 wef 01/07/2020]
+
+### Operation of Act not to affect registrability or registration of designs
+
+39\.—(1) Nothing in, or done in accordance with, this Act or any regulations made for the purpose of section 17 —
+
+(a) prevents the registration of a design under the Registered Designs Act (Cap. 266); or
+
+(b) is a ground to revoke the registration of a registered design under section 27 of the Registered Designs Act.
+
+(2) In this section, “design” and “registered design” have the meanings given by section 2(1) of the Registered Designs Act.
+
+[Act 9 of 2019 wef 01/07/2020]
+
 ## LEGISLATIVE HISTORY
 
 Tobacco (Control of Advertisements and Sale) Act
@@ -1404,6 +1442,7 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of Second and Third Readings|11 February 2019|
 ||Date of commencement|1 May 2019|
 |||1 July 2019|
+|||1 July 2020|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
