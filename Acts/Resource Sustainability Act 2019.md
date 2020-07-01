@@ -672,11 +672,7 @@ REPORTING IN RELATION TO PACKAGING
 
 (d) the offer to supply the regulated goods or exposure of the regulated goods for supply.
 
-(2) In this Part, “producer”, in relation to any specified packaging, means a person (
-
-A
-
-) who carries on a business of supplying regulated goods in Singapore and in furtherance of that business —
+(2) In this Part, “producer”, in relation to any specified packaging, means a person (A) who carries on a business of supplying regulated goods in Singapore and in furtherance of that business —
 
 (a) imports specified packaging by importing regulated goods that have been packed into or with, or wrapped with, specified packaging; or
 
@@ -684,41 +680,13 @@ A
 
 (i) by packing the regulated goods into or with specified packaging or wrapping the regulated goods with specified packaging;
 
-(ii) by engaging another person to do anything mentioned in sub‑paragraph (i) for or on behalf of
+(ii) by engaging another person to do anything mentioned in sub‑paragraph (i) for or on behalf ofAor otherwise causing anything mentioned in sub‑paragraph (i);
 
-A
+(iii) whereAsupplies the regulated goods to a retailer, by providing specified packaging to the retailer thatArequires the retailer to use in connection with the retailer’s supply of the regulated goods; or
 
-or otherwise causing anything mentioned in sub‑paragraph (i);
+(iv) whereAis a retailer, by providing the specified packaging to a consumer who purchases regulated goods fromA, to enable the consumer to put the regulated goods into the specified packaging,
 
-(iii) where
-
-A
-
-supplies the regulated goods to a retailer, by providing specified packaging to the retailer that
-
-A
-
-requires the retailer to use in connection with the retailer’s supply of the regulated goods; or
-
-(iv) where
-
-A
-
-is a retailer, by providing the specified packaging to a consumer who purchases regulated goods from
-
-A
-
-, to enable the consumer to put the regulated goods into the specified packaging,
-
-but does not include a person who does anything mentioned in paragraph (
-
-b
-
-)(i) for or on behalf of a Singapore‑connected person, or the retailer mentioned in paragraph (
-
-b
-
-)(iii).
+but does not include a person who does anything mentioned in paragraph (b)(i) for or on behalf of a Singapore‑connected person, or the retailer mentioned in paragraph (b)(iii).
 
 ### Reporting of specified packaging imported or used
 
@@ -798,11 +766,7 @@ and the person must comply with the direction.
 
 (a) retain the records mentioned in subsection (1) for the prescribed period or longer;
 
-(b) during the prescribed period mentioned in paragraph (
-
-a
-
-), make available for inspection by any authorised officer, the records mentioned in subsection (1) when so requested by the authorised officer; and
+(b) during the prescribed period mentioned in paragraph (a), make available for inspection by any authorised officer, the records mentioned in subsection (1) when so requested by the authorised officer; and
 
 (c) submit to the Agency the records mentioned in subsection (1) in the time specified by the Agency.
 
