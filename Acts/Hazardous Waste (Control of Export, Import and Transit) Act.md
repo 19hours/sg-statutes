@@ -2134,6 +2134,152 @@ Y47
 
 Residues arising from the incineration of household wastes
 
+Y481
+
+Plastic waste, including mixtures of such waste, with the exception of the following:
+
+(a)
+
+Plastic waste that is hazardous waste pursuant to paragraph 1(a) of Article 12
+
+(b)
+
+Plastic waste listed below, provided it is destined for recycling3in an environmentally sound manner and almost free from contamination and other types of wastes:4
+
+(i)
+
+Plastic waste almost exclusively5consisting of one non‑halogenated polymer, including but not limited to the following polymers:
+
+(A)
+
+Polyethylene (PE)
+
+(B)
+
+Polypropylene (PP)
+
+(C)
+
+Polystyrene (PS)
+
+(D)
+
+Acrylonitrile butadiene styrene (ABS)
+
+(E)
+
+Polyethylene terephthalate (PET)
+
+(F)
+
+Polycarbonates (PC)
+
+(G)
+
+Polyethers
+
+(ii)
+
+Plastic waste almost exclusively6consisting of one cured resin or condensation product, including but not limited to the following resins:
+
+(A)
+
+Urea formaldehyde resins
+
+(B)
+
+Phenol formaldehyde resins
+
+(C)
+
+Melamine formaldehyde resins
+
+(D)
+
+Epoxy resins
+
+(E)
+
+Alkyd resins
+
+(iii)
+
+Plastic waste almost exclusively7consisting of one of the following fluorinated polymers:8
+
+(A)
+
+Perfluoroethylene/propylene (FEP)
+
+(B)
+
+Perfluoroalkoxy alkanes:
+
+(BA)
+
+Tetrafluoroethylene / perfluoroalkyl vinyl ether (PFA)
+
+(BB)
+
+Tetrafluoroethylene / perfluoromethyl vinyl ether (MFA)
+
+(C)
+
+Polyvinylfluoride (PVF)
+
+(D)
+
+Polyvinylidenefluoride (PVDF)
+
+(iv)
+
+Mixtures of plastic waste, consisting of polyethylene (PE), polypropylene (PP) and/or polyethylene terephthalate (PET), provided they are destined for separate recycling9of each material and in an environmentally sound manner, and almost free from contamination and other types of wastes.10
+
+[Act 6 of 2020 wef 01/10/2020]
+
+Notes
+
+1.
+
+Parties can impose stricter requirements in relation to this entry.
+
+2.
+
+Note the related entry on list A A3210 in Annex VIII.
+
+3.
+
+Recycling/reclamation of organic substances that are not used as solvents (R3 in Annex IV, sect. B) or, if needed, temporary storage limited to one instance, provided that it is followed by operation R3 and evidenced by contractual or relevant official documentation.
+
+4.
+
+In relation to “almost free from contamination and other types of wastes”, international and national specifications may offer a point of reference.
+
+5.
+
+In relation to “almost exclusively”, international and national specifications may offer a point of reference.
+
+6.
+
+In relation to “almost exclusively”, international and national specifications may offer a point of reference.
+
+7.
+
+In relation to “almost exclusively”, international and national specifications may offer a point of reference.
+
+8.
+
+Post-consumer wastes are excluded.
+
+9.
+
+Recycling/reclamation of organic substances that are not used as solvents (R3 in Annex IV, sect. B), with prior sorting and, if needed, temporary storage limited to one instance, provided that it is followed by operation R3 and evidenced by contractual or relevant official documentation.
+
+10.
+
+In relation to “almost free from contamination and other types of wastes”, international and national specifications may offer a point of reference.
+
+[Act 6 of 2020 wef 01/10/2020]
+
 Annex III
 
 List of Hazardous Characteristics
@@ -2916,6 +3062,12 @@ A3200
 
 Bituminous material (asphalt waste) from road construction and maintenance, containing tar (note the related entry on list B B2130)
 
+A3210
+
+Plastic waste, including mixtures of such waste, containing or contaminated with Annex I constituents, to an extent that it exhibits an Annex III characteristic (note the related entries Y48 in Annex II and on list B B3011)
+
+[Act 6 of 2020 wef 01/10/2020]
+
 A4 — WASTES WHICH MAY CONTAIN EITHER INORGANIC OR ORGANIC CONSTITUENTS
 
 A4010
@@ -3596,149 +3748,103 @@ B3 — WASTES CONTAINING PRINCIPALLY ORGANIC CONSTITUENTS, WHICH MAY CONTAIN MET
 
 B3010
 
-Solid plastic waste:
+[Deleted by Act 6 of 2020 wef 01/10/2020]
 
-The following plastic or mixed plastic materials, provided they are not mixed with other wastes and are prepared to a specification:
+B3011
 
-1.
-
-Scrap plastic of non-halogenated polymers and co-polymers, including but not limited to the following:7
+Plastic waste (note the related entries Y48 in Annex II and on list A A3210):
 
 (a)
 
-ethylene
-
-(b)
-
-styrene
-
-(c)
-
-polypropylene
-
-(d)
-
-polyethylene terephthalate
-
-(e)
-
-acrylonitrile
-
-(f)
-
-butadiene
-
-(g)
-
-polyacetals
-
-(h)
-
-polyamides
+Plastic waste listed below, provided it is destined for recycling7in an environmentally sound manner and almost free from contamination and other types of wastes:8
 
 (i)
 
-polybutylene terephthalate
+Plastic waste almost exclusively9consisting of one non-halogenated polymer, including but not limited to the following polymers:
 
-(j)
+(A)
 
-polycarbonates
+Polyethylene (PE)
 
-(k)
+(B)
 
-polyethers
+Polypropylene (PP)
 
-(l)
+(C)
 
-polyphenylene sulphides
+Polystyrene (PS)
 
-(m)
+(D)
 
-acrylic polymers
+Acrylonitrile butadiene styrene (ABS)
 
-(n)
+(E)
 
-alkanes C10-C13 (plasticizer)
+Polyethylene terephthalate (PET)
 
-(o)
+(F)
 
-polyurethane (not containing CFCs)
+Polycarbonates (PC)
 
-(p)
+(G)
 
-polysiloxanes
+Polyethers
 
-(q)
+(ii)
 
-polymethyl methacrylate
+Plastic waste almost exclusively10consisting of one cured resin or condensation product, including but not limited to the following resins:
 
-(r)
+(A)
 
-polyvinyl alcohol
+Urea formaldehyde resins
 
-(s)
+(B)
 
-polyvinyl butyral
+Phenol formaldehyde resins
 
-(t)
+(C)
 
-polyvinyl acetate
+Melamine formaldehyde resins
 
-2.
+(D)
 
-Cured waste resins or condensation products including the following:
+Epoxy resins
 
-(a)
+(E)
 
-urea formaldehyde resins
+Alkyd resins
+
+(iii)
+
+Plastic waste almost exclusively11consisting of one of the following fluorinated polymers:12
+
+(A)
+
+Perfluoroethylene/propylene (FEP)
+
+(B)
+
+Perfluoroalkoxy alkanes:
+
+(BA)
+
+Tetrafluoroethylene / perfluoroalkyl vinyl ether (PFA)
+
+(BB)
+
+Tetrafluoroethylene / perfluoromethyl vinyl ether (MFA)
+
+(C)
+
+Polyvinylfluoride (PVF)
+
+(D)
+
+Polyvinylidenefluoride (PVDF)
 
 (b)
 
-phenol formaldehyde resins
-
-(c)
-
-melamine formaldehyde resins
-
-(d)
-
-epoxy resins
-
-(e)
-
-alkyd resins
-
-(f)
-
-polyamides
-
-3.
-
-The following fluorinated polymer wastes:8
-
-(a)
-
-perfluoroethylene/propylene (FEP)
-
-(b)
-
-perfluoro alkoxyl alkane
-
-(c)
-
-tetrafluoroethylene/per fluoro vinyl ether (PFA)
-
-(d)
-
-tetrafluoroethylene/per fluoro methylvinyl ether (MFA)
-
-(e)
-
-polyvinylfluoride (PVF)
-
-(f)
-
-polyvinylidenefluoride (PVDF)
+Mixtures of plastic waste, consisting of polyethylene (PE), polypropylene (PP) and/or polyethylene terephthalate (PET), provided they are destined for separate recycling13of each material and in an environmentally sound manner, and almost free from contamination and other types of wastes.14
 
 B3020
 
@@ -4004,6 +4110,8 @@ B3140
 
 Waste pneumatic tyres, excluding those destined for Annex IVA operations
 
+[Act 6 of 2020 wef 01/10/2020]
+
 B4 — WASTES WHICH MAY CONTAIN EITHER INORGANIC OR ORGANIC CONSTITUENTS
 
 B4010
@@ -4046,21 +4154,39 @@ The concentration level of Benzol (a) pyrene should not be 50 mg/kg or more.
 
 7.
 
-It is understood that such scraps are completely polymerised.
+Recycling/reclamation of organic substances that are not used as solvents (R3 in Annex IV, sect. B) or, if needed, temporary storage limited to one instance, provided that it is followed by operation R3 and evidenced by contractual or relevant official documentation.
 
-8.—(a)
+8.
 
-Post-consumer wastes are excluded from this entry;
+In relation to “almost free from contamination and other types of wastes”, international and national specifications may offer a point of reference.
 
-(b)
+9.
 
-Wastes shall not be mixed;
+In relation to “almost exclusively”, international and national specifications may offer a point of reference.
 
-(c)
+10.
 
-Problems arising from open-burning practices to be considered.
+In relation to “almost exclusively”, international and national specifications may offer a point of reference.
+
+11.
+
+In relation to “almost exclusively”, international and national specifications may offer a point of reference.
+
+12.
+
+Post-consumer wastes are excluded.
+
+13.
+
+Recycling/reclamation of organic substances that are not used as solvents (R3 in Annex IV, sect. B), with prior sorting and, if needed, temporary storage limited to one instance, provided that it is followed by operation R3 and evidenced by contractual or relevant official documentation.
+
+14.
+
+In relation to “almost free from contamination and other types of wastes”, international and national specifications may offer a point of reference.
 
 [S 820/2019 wef 10/12/2019]
+
+[Act 6 of 2020 wef 01/10/2020]
 
 ## LEGISLATIVE HISTORY
 
@@ -4090,3 +4216,8 @@ This Legislative History is provided for the convenience of users of the Hazardo
 |||(Bill No. 6/2020)|
 ||Date of Second and Third Readings|3 February 2020|
 ||Date of commencement|1 April 2020|
+|6.|**Act 6 of 2020—Hazardous Waste (Control of Export, Import and Transit) (Amendment) Act 2020**|
+||Date of First Reading|6 January 2020|
+|||(Bill No. 6/2020)|
+||Date of Second and Third Readings|3 February 2020|
+||Date of commencement|1 October 2020|
