@@ -412,35 +412,19 @@ Obligations of producers
 
 (b) must not demand or require the person to pay any consideration for the collection and disposal of the regulated non‑consumer product (such as the cost of any labour or transport).
 
-(2) Where the producer of a regulated non‑consumer product contravenes subsection (1)(
-
-a
-
-), the Agency may, by written notice served on the producer, direct the producer to collect the regulated non‑consumer product from any premises (whether or not specified by the person mentioned in subsection (1)) and within the time, specified in the written notice.
+(2) Where the producer of a regulated non‑consumer product contravenes subsection (1)(a), the Agency may, by written notice served on the producer, direct the producer to collect the regulated non‑consumer product from any premises (whether or not specified by the person mentioned in subsection (1)) and within the time, specified in the written notice.
 
 (3) A producer of a regulated non‑consumer product who is aggrieved by any direction of the Agency under subsection (2) may, within 14 days after being notified of the direction, appeal to the Minister.
 
 (4) A producer of a regulated non‑consumer product who, without reasonable excuse —
 
-(a) contravenes subsection (1)(
-
-b
-
-); or
+(a) contravenes subsection (1)(b); or
 
 (b) refuses or fails to comply with the Agency’s direction under subsection (2),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(5) It is a defence to a prosecution for an offence under subsection (4)(
-
-a
-
-) or (
-
-b
-
-) if it is proved, on a balance of probabilities, that the accused reasonably believed that the accused is not the producer of the regulated non‑consumer product.
+(5) It is a defence to a prosecution for an offence under subsection (4)(a) or (b) if it is proved, on a balance of probabilities, that the accused reasonably believed that the accused is not the producer of the regulated non‑consumer product.
 
 (6) A producer of a regulated non‑consumer product commits an offence if the producer disposes of any regulated non‑consumer product collected under this section other than by presenting it to, or by depositing it at a place directed or designated by, any of the following persons:
 
@@ -470,11 +454,7 @@ Retailers of regulated consumer products
 
 (b) in the course of such supply, delivers, or causes the delivery of, the supplied product to any premises specified by the consumer,
 
-the consumer may require the retailer to collect from the premises, and dispose of, another regulated consumer product (called in this section the unwanted product) that is of the same class or type as the supplied product according to the classification in section 12(2)(
-
-a
-
-).
+the consumer may require the retailer to collect from the premises, and dispose of, another regulated consumer product (called in this section the unwanted product) that is of the same class or type as the supplied product according to the classification in section 12(2)(a).
 
 (2) If a person requires a retailer to collect and dispose of an unwanted product under subsection (1), the retailer —
 
@@ -508,11 +488,7 @@ a
 
 (a) a designated regulated consumer product is brought to a retailer’s premises for disposal; and
 
-(b) the designated regulated consumer product is of the same class or type of consumer product as that supplied at those premises according to the classification in section 12(2)(
-
-a
-
-),
+(b) the designated regulated consumer product is of the same class or type of consumer product as that supplied at those premises according to the classification in section 12(2)(a),
 
 the retailer must accept the designated regulated consumer product for disposal.
 
@@ -542,37 +518,17 @@ Miscellaneous
 
 (b) in accordance with the written approval of the Agency.
 
-(2) The Agency may impose conditions (including conditions subsequent) in its written approval mentioned in subsection (1)(
-
-b
-
-).
+(2) The Agency may impose conditions (including conditions subsequent) in its written approval mentioned in subsection (1)(b).
 
 (3) Subsection (1) does not apply in relation to —
 
-(a) the placement by a person of a receptacle in a public place for the collection of any regulated product for disposal where the person does so for or on behalf of a person referred to in subsection (1)(
-
-a
-
-) or (
-
-b
-
-); or
+(a) the placement by a person of a receptacle in a public place for the collection of any regulated product for disposal where the person does so for or on behalf of a person referred to in subsection (1)(a) or (b); or
 
 (b) the collection of any regulated product for disposal as waste by a licensed waste collector where the collection of the regulated product is —
 
 (i) incidental to the licensed waste collector’s collection of general waste; or
 
-(ii) carried out for or on behalf of a person mentioned in subsection (1)(
-
-a
-
-) or (
-
-b
-
-).
+(ii) carried out for or on behalf of a person mentioned in subsection (1)(a) or (b).
 
 (4) A person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -596,11 +552,7 @@ b
 
 (b) a licensed waste collector or licensed e‑waste recycler;
 
-(c) a person referred to in section 16(1)(
-
-b
-
-).
+(c) a person referred to in section 16(1)(b).
 
 ### Keeping of records
 
